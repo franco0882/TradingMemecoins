@@ -653,3 +653,14 @@
 2026-11-24T09:20:35-0500 SIGNAL B-shadow/B 英伟达 2dmtCNXK1Zdaci2P6zAGgg83DD47UycqFDcvDDGx2eNP mc=31805 liq=43017 m5=46202 regime:B_paused_in_COLD;age_basis=pool
 2026-11-24T09:20:35-0500 RUN ok seen=108 new=3 closed=0 open=32 total=1207 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
 2026-11-24T09:25:35-0500 RUN ok seen=109 new=0 closed=1 open=31 total=1207 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
+2026-11-24T18:28:13-0500 SIGNAL R-band/R KOOP FgbuQ1jrUz3yChU6h6RieucAhRN8WxJQuiraX8yZZEXU mc=107500 liq=193197 m5=189193 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-24T18:28:13-0500 SIGNAL R-band/R JIMMY FEcyPEEtTiZLKtahzmmMqX7rxYBYLSbtZiP1PrwmCLiR mc=298403 liq=102540 m5=139919 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-24T18:28:13-0500 SIGNAL R-band/R JIMMY Mt8pUXSmzfSxkdqsNE2b9GEaEg3yxykFVLQ75caxu7c mc=287509 liq=98423 m5=86971 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-24T18:28:13-0500 SIGNAL B-shadow/B Jimmies GisWWjhwrSud4aFGSHvTMt85Ky14sY7LeBFCpfoFpump mc=140304 liq=25421 m5=57651 regime:B_paused_in_COLD;age_basis=pool
+2026-11-24T18:28:13-0500 SIGNAL R-band/R Jimmies GisWWjhwrSud4aFGSHvTMt85Ky14sY7LeBFCpfoFpump mc=140304 liq=25421 m5=57651 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-24T18:28:13-0500 SIGNAL R-band/R Hope GUeaFe2tzV7J4vxcBQbboJwnkDTFCVRqSFjF83XHpump mc=142995 liq=24760 m5=49684 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-24T18:28:13-0500 SIGNAL R-band/R 4CHAN DVdWuNK8ncn79B6z8nCiwcNAiwyFcmBPfChgxJGTpump mc=145575 liq=26675 m5=18114 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-24T18:28:13-0500 SIGNAL R-band/R BTC GkSZVKcXcgodewdZd5CbGxFJoUUcazrf1GayrNv3pump mc=161876 liq=27582 m5=12379 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-24T18:28:13-0500 SIGNAL R-band/R MEMESTONK 9guNcpbsmqcKJikLNBcn8g5AoG3v9k98zK51KcoXpump mc=192156 liq=30075 m5=2241 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-24T18:28:13-0500 SIGNAL R-band/R Holders 55RwtHpoNB81SgfiNvogeZTMfik2SfMGa5FaxKcXpump mc=182231 liq=32233 m5=1234 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-24T18:28:13-0500 RUN ok seen=133 new=10 closed=18 open=23 total=1217 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.5s
