@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+*.bak
+*.bak.csv
+*.tmp
+*.sync_tmp
+*.lock
+*.pid
+*.marker
+*.out
+*.progress
+.env
+.env.*
+*.key
+*.pem
+# runtime logs stay out of the repo (scanner.log is kept: its RUN lines are the gap record)
+ledger/learning/learning.log
+ledger/learning/ta.log
+ledger/nearmiss/sync.log
+# candle cache is rebuilt from the free API and persisted with actions/cache, not git
+ledger/learning/ta_cache/
+# box-only / local-only files
+ledger/open_positions.json
+ledger/learning/.watch_was_on
+ledger/learning/STOP
+ledger/nearmiss_local/

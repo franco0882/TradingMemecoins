@@ -1,0 +1,20 @@
+{
+ "last_run_et": "2026-11-23T22:26:11-0500",
+ "duration_s": 50.7,
+ "calls": {
+  "gecko": 8,
+  "dex": 5,
+  "errors": 0,
+  "429": 3
+ },
+ "tokens_seen": 120,
+ "new_rows": 0,
+ "new_by_class": {},
+ "skipped_by_cap": 0,
+ "closed_this_run": 1,
+ "rows_total": 1190,
+ "open_positions": 25,
+ "closed_total": 1165,
+ "errors_this_run": 0,
+ "pid": 69103
+}

@@ -1,0 +1,69 @@
+# Paper-only scanner on GitHub Actions. Free public APIs, no secrets. Public repo => standard-runner minutes are free.
+name: scanner
+on:
+  schedule:
+    - cron: '3,13,23,33,43,53 * * * *'   # every 10 min, off the top of the hour (GitHub cron is best effort; each job loops for ~20 min)
+  workflow_dispatch:
+    inputs:
+      loop_minutes:
+        description: 'Minutes to keep scanning in this job (0 = a single scan)'
+        required: false
+        default: '20'
+concurrency:
+  group: scanner            # one job at a time; a newer trigger waits (no overlapping writers)
+  cancel-in-progress: false
+permissions:
+  contents: write           # only to commit data files back with the built-in GITHUB_TOKEN
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      DESK_ROOT: ${{ github.workspace }}
+      TZ: America/Toronto
+      PYTHONUNBUFFERED: '1'
+      LOOP_MINUTES: ${{ github.event.inputs.loop_minutes || '20' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Restore candle cache
+        uses: actions/cache/restore@v4
+        with:
+          path: ledger/learning/ta_cache
+          key: ta-cache-${{ github.run_id }}
+          restore-keys: ta-cache-
+      - name: Scan every 5 minutes and commit data after each scan
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p ledger/learning/ta_cache
+          end=$(( $(date +%s) + LOOP_MINUTES*60 ))
+          while :; do
+            git pull --rebase --quiet || true
+            timeout 240 python3 -u ledger/nearmiss/scanner.py run || echo "scanner run failed status=$?"
+            tail -n 3 ledger/nearmiss/scanner.log || true
+            git add -A ledger/nearmiss ledger/learning
+            if ! git diff --cached --quiet; then
+              git commit -qm "scan $(date +%Y-%m-%dT%H:%M%z) [skip ci]"
+              git push -q || { git pull --rebase -q && git push -q; } || echo "push failed"
+            fi
+            now=$(date +%s); next=$(( (now/300 + 1)*300 + 20 ))
+            (( next + 60 > end )) && break
+            sleep $(( next - now ))
+          done
+      - name: Show hook logs (job log only, not committed)
+        if: always()
+        run: |
+          tail -n 20 ledger/learning/learning.log 2>/dev/null || true
+          tail -n 10 ledger/learning/ta.log 2>/dev/null || true
+      - name: Prune candle cache (files older than 3 days)
+        if: always()
+        run: find ledger/learning/ta_cache -type f -mmin +4320 -delete 2>/dev/null || true
+      - name: Save candle cache
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: ledger/learning/ta_cache
+          key: ta-cache-${{ github.run_id }}
