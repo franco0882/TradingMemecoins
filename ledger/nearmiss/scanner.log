@@ -680,3 +680,4 @@
 2026-11-24T18:40:34-0500 SIGNAL R-band/R nut Hp1RVfqfmR7oxTUGHJBXUMPEV1yRQd87GUgXHhsHtVn4 mc=174211 liq=23594 m5=42077 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-24T18:40:34-0500 SIGNAL A-nearmiss/A goldcoin Cp6i5Ka8Gwzzn537KoqLyjQCFX6QBfoAC9WuxEbQpump mc=69507 liq=22637 m5=30579 vol5m<50k;liq<30k;catalyst=unverified
 2026-11-24T18:40:34-0500 RUN ok seen=123 new=3 closed=0 open=32 total=1230 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.5s
+2026-11-24T18:45:35-0500 RUN ok seen=124 new=0 closed=2 open=30 total=1230 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.5s
