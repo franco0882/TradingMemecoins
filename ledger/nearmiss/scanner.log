@@ -648,3 +648,7 @@
 2026-11-24T09:15:35-0500 SIGNAL R-band/R b AdoWvf6CyQvVrFcpfJrMzbRiJvsCCXZikPBZajHvtfCk mc=294264 liq=30545 m5=138478 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-24T09:15:35-0500 SIGNAL B-shadow/B Memeployed 4m2PS6yW2xDk5V9nJgPjnus1eguwCDSWXbA2YQeVkqxn mc=93507 liq=25737 m5=18979 regime:B_paused_in_COLD;age_basis=pool
 2026-11-24T09:15:35-0500 RUN ok seen=106 new=2 closed=2 open=29 total=1204 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
+2026-11-24T09:20:35-0500 SIGNAL B-shadow/B GPUBREAK BykEjfKeLzSAen7p41nCHFwenuQ5s4fosPRzJudLpump mc=127835 liq=32699 m5=118786 regime:B_paused_in_COLD;age_basis=pool
+2026-11-24T09:20:35-0500 SIGNAL A-nearmiss/A 英伟达 2dmtCNXK1Zdaci2P6zAGgg83DD47UycqFDcvDDGx2eNP mc=31805 liq=43017 m5=46202 vol5m<50k;catalyst=unverified
+2026-11-24T09:20:35-0500 SIGNAL B-shadow/B 英伟达 2dmtCNXK1Zdaci2P6zAGgg83DD47UycqFDcvDDGx2eNP mc=31805 liq=43017 m5=46202 regime:B_paused_in_COLD;age_basis=pool
+2026-11-24T09:20:35-0500 RUN ok seen=108 new=3 closed=0 open=32 total=1207 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
