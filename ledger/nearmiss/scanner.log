@@ -664,3 +664,9 @@
 2026-11-24T18:28:13-0500 SIGNAL R-band/R MEMESTONK 9guNcpbsmqcKJikLNBcn8g5AoG3v9k98zK51KcoXpump mc=192156 liq=30075 m5=2241 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-24T18:28:13-0500 SIGNAL R-band/R Holders 55RwtHpoNB81SgfiNvogeZTMfik2SfMGa5FaxKcXpump mc=182231 liq=32233 m5=1234 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-24T18:28:13-0500 RUN ok seen=133 new=10 closed=18 open=23 total=1217 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.5s
+2026-11-24T18:30:35-0500 SIGNAL FULL-PASS/A KOOP FgbuQ1jrUz3yChU6h6RieucAhRN8WxJQuiraX8yZZEXU mc=108815 liq=195055 m5=480153 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-24T18:30:35-0500 SIGNAL B-shadow/B KOOP FgbuQ1jrUz3yChU6h6RieucAhRN8WxJQuiraX8yZZEXU mc=108815 liq=195055 m5=480153 regime:B_paused_in_COLD;age_basis=pool
+2026-11-24T18:30:35-0500 SIGNAL A-nearmiss/A Hope GUeaFe2tzV7J4vxcBQbboJwnkDTFCVRqSFjF83XHpump mc=70021 liq=18977 m5=105021 liq<30k;catalyst=unverified
+2026-11-24T18:30:35-0500 SIGNAL B-shadow/B Hope GUeaFe2tzV7J4vxcBQbboJwnkDTFCVRqSFjF83XHpump mc=70021 liq=18977 m5=105021 regime:B_paused_in_COLD;age_basis=pool
+2026-11-24T18:30:35-0500 SIGNAL B-shadow/B 4CHAN DVdWuNK8ncn79B6z8nCiwcNAiwyFcmBPfChgxJGTpump mc=138961 liq=26280 m5=47529 regime:B_paused_in_COLD;age_basis=pool
+2026-11-24T18:30:35-0500 RUN ok seen=126 new=5 closed=1 open=27 total=1222 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
