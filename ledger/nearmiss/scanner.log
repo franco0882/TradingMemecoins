@@ -632,3 +632,16 @@
 2026-11-23T22:15:35-0500 RUN ok seen=119 new=2 closed=3 open=29 total=1186 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
 2026-11-23T22:24:45-0500 RUN ok seen=122 new=4 closed=7 open=26 total=1190 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
 2026-11-23T22:26:11-0500 RUN ok seen=120 new=0 closed=1 open=25 total=1190 calls={'gecko': 8, 'dex': 5, 'errors': 0, '429': 3} 50.7s
+2026-11-24T09:11:25-0500 SIGNAL FULL-PASS/A KOOP EVz2KEYX3NmqtNKvQcrXpuxaxkU1PgaF4jtcRzAEcJA4 mc=84143 liq=139343 m5=608455 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-24T09:11:25-0500 SIGNAL FULL-PASS/A ANSEM 1ebh3jv1YJ9as9XcNKVbSawPQttf3fnXmb7ysgdy7UD mc=53706 liq=94530 m5=318239 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-24T09:11:25-0500 SIGNAL FULL-PASS/A DUVAL KgTb2NE7nSKkTzG6qArpEEz8YbmzjK1q5HSvX8JUznh mc=49512 liq=86186 m5=308856 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-24T09:11:25-0500 SIGNAL B-shadow/B KOOP EVz2KEYX3NmqtNKvQcrXpuxaxkU1PgaF4jtcRzAEcJA4 mc=84143 liq=139343 m5=608455 regime:B_paused_in_COLD;age_basis=pool
+2026-11-24T09:11:25-0500 SIGNAL B-shadow/B ANSEM 1ebh3jv1YJ9as9XcNKVbSawPQttf3fnXmb7ysgdy7UD mc=53706 liq=94530 m5=318239 regime:B_paused_in_COLD;age_basis=pool
+2026-11-24T09:11:25-0500 SIGNAL B-shadow/B DUVAL KgTb2NE7nSKkTzG6qArpEEz8YbmzjK1q5HSvX8JUznh mc=49512 liq=86186 m5=308856 regime:B_paused_in_COLD;age_basis=pool
+2026-11-24T09:11:25-0500 SIGNAL R-band/R GPUBREAK BykEjfKeLzSAen7p41nCHFwenuQ5s4fosPRzJudLpump mc=130174 liq=30723 m5=84269 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-24T09:11:25-0500 SIGNAL B-shadow/B scamsem 4vogFzgEcRdLSJgsN3bLFy7iBxXFku4emHchS4ADAqad mc=25407 liq=25764 m5=43518 regime:B_paused_in_COLD;age_basis=pool
+2026-11-24T09:11:25-0500 SIGNAL R-band/R Slingoor ANvsL4A6tJKAXJsPg7XVSHQA7KYmFcpW42jPuhVtpump mc=129270 liq=25332 m5=40634 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-24T09:11:25-0500 SIGNAL A-nearmiss/A CROWD H3iGq7KSqdzw7QG3xZo2mF4eaYsvihZqqoAkdXripump mc=332319 liq=42301 m5=36463 vol5m<50k;catalyst=unverified
+2026-11-24T09:11:25-0500 SIGNAL R-band/R DUVAL 7fmD1p3jzva28EPP9bPqbDoxZGj5j398yJoE3EVypump mc=185203 liq=33751 m5=15870 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-24T09:11:25-0500 SIGNAL R-band/R COPIUM BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump mc=282990 liq=40085 m5=3844 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-24T09:11:25-0500 RUN ok seen=110 new=12 closed=8 open=29 total=1202 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
