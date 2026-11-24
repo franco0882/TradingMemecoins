@@ -17,21 +17,22 @@
    "done_tps": [],
    "stop": 0.000282703780805,
    "peak": 0.0003325926833,
-   "low": 0.0003325926833,
+   "low": 0.0003216312541796375,
    "trailing": false,
    "gap": 0,
-   "n": 0,
+   "n": 1,
    "trade_id": "L0138",
    "mint": "H3iGq7KSqdzw7QG3xZo2mF4eaYsvihZqqoAkdXripump",
    "symbol": "CROWD",
    "strategy": "A-NEARMISS-V4",
    "entry_liq": 42301.0,
-   "pool": "CBzXNJuhuq3ibeRY8NUH7UG4WxTNUrHL1exvzXp5pmkC"
+   "pool": "CBzXNJuhuq3ibeRY8NUH7UG4WxTNUrHL1exvzXp5pmkC",
+   "rug_strikes": 0
   }
  ],
  "next_id": 139,
  "created_et": "2026-11-18T15:40:35-0500",
- "updated_et": "2026-11-24T09:11:25-0500",
+ "updated_et": "2026-11-24T09:15:35-0500",
  "open_count": 0,
  "open_ids": [],
  "bankroll_sol": 0.072679,
@@ -50,7 +51,7 @@
   "reentry_cooldown_h": 6
  },
  "watch_mode": "off",
- "last_run_t": 1795529485.2792645,
+ "last_run_t": 1795529735.1576488,
  "f_realized_pnl_sol": -0.229904,
  "f_bankroll_sol": 0.770096,
  "f_start_bankroll": 1.0,
@@ -68,7 +69,7 @@
   "clone_minlen": 4
  },
  "bandit": {
-  "updated_et": "2026-11-24T09:11:25-0500",
+  "updated_et": "2026-11-24T09:15:35-0500",
   "method": "thompson_gaussian_clean_net_pct",
   "min_share": 0.15,
   "min_cap": 3,
@@ -137,7 +138,7 @@
   "open_ids": [
    "L0138"
   ],
-  "unrealized_pnl_sol": -0.000736,
+  "unrealized_pnl_sol": -0.001546,
   "deployed_sol": 0.02454,
   "closed_total": 4,
   "trades_total": 5,

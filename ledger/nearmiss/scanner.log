@@ -645,3 +645,6 @@
 2026-11-24T09:11:25-0500 SIGNAL R-band/R DUVAL 7fmD1p3jzva28EPP9bPqbDoxZGj5j398yJoE3EVypump mc=185203 liq=33751 m5=15870 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-24T09:11:25-0500 SIGNAL R-band/R COPIUM BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump mc=282990 liq=40085 m5=3844 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-24T09:11:25-0500 RUN ok seen=110 new=12 closed=8 open=29 total=1202 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
+2026-11-24T09:15:35-0500 SIGNAL R-band/R b AdoWvf6CyQvVrFcpfJrMzbRiJvsCCXZikPBZajHvtfCk mc=294264 liq=30545 m5=138478 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-24T09:15:35-0500 SIGNAL B-shadow/B Memeployed 4m2PS6yW2xDk5V9nJgPjnus1eguwCDSWXbA2YQeVkqxn mc=93507 liq=25737 m5=18979 regime:B_paused_in_COLD;age_basis=pool
+2026-11-24T09:15:35-0500 RUN ok seen=106 new=2 closed=2 open=29 total=1204 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
