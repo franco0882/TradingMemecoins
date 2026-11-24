@@ -3,35 +3,10 @@
  "reserve": 0.05,
  "size_sol": 0.025,
  "realized_pnl_sol": -0.927321,
- "positions": [
-  {
-   "row_id": "L0139",
-   "lane": "A",
-   "entry": 0.001445175186,
-   "t0": 1795563335.5714955,
-   "exit": "TP30_S15_T30",
-   "size": 0.023913,
-   "explore": 0,
-   "rem": 1.0,
-   "realized": 0.0,
-   "done_tps": [],
-   "stop": 0.0012283989081,
-   "peak": 0.001445175186,
-   "low": 0.001445175186,
-   "trailing": false,
-   "gap": 0,
-   "n": 0,
-   "trade_id": "L0139",
-   "mint": "5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump",
-   "symbol": "DONJENSEN",
-   "strategy": "A-FULLPASS-V4",
-   "entry_liq": 87480.0,
-   "pool": "7v3yUnuNayZ6KwbAxJSd3TXnk2WT92q18zJiB677nNso"
-  }
- ],
+ "positions": [],
  "next_id": 140,
  "created_et": "2026-11-18T15:40:35-0500",
- "updated_et": "2026-11-24T18:35:35-0500",
+ "updated_et": "2026-11-24T18:40:34-0500",
  "open_count": 0,
  "open_ids": [],
  "bankroll_sol": 0.072679,
@@ -50,7 +25,7 @@
   "reentry_cooldown_h": 6
  },
  "watch_mode": "off",
- "last_run_t": 1795563335.5714955,
+ "last_run_t": 1795563634.8946948,
  "f_realized_pnl_sol": -0.229904,
  "f_bankroll_sol": 0.770096,
  "f_start_bankroll": 1.0,
@@ -60,7 +35,7 @@
  "f_deployed_sol": 0.0,
  "f_closed_total": 39,
  "f_trades_total": 39,
- "open_count_total": 1,
+ "open_count_total": 0,
  "filter": {
   "liq_mcap_max": 0.5,
   "vol1h_liq_max": 20.0,
@@ -68,7 +43,7 @@
   "clone_minlen": 4
  },
  "bandit": {
-  "updated_et": "2026-11-24T18:35:35-0500",
+  "updated_et": "2026-11-24T18:40:34-0500",
   "method": "thompson_gaussian_clean_net_pct",
   "min_share": 0.15,
   "min_cap": 3,
@@ -106,20 +81,20 @@
     "day_cap": 5
    },
    "A-FULLPASS-V4": {
-    "n_clean": 0,
-    "post_mean": 0.0,
-    "post_sd": 17.68,
-    "p_best": 0.51,
-    "share": 0.507,
-    "day_cap": 15
+    "n_clean": 1,
+    "post_mean": 9.0,
+    "post_sd": 14.43,
+    "p_best": 0.638,
+    "share": 0.597,
+    "day_cap": 18
    },
    "A-NEARMISS-V4": {
     "n_clean": 0,
     "post_mean": 0.0,
     "post_sd": 17.68,
-    "p_best": 0.49,
-    "share": 0.493,
-    "day_cap": 15
+    "p_best": 0.362,
+    "share": 0.403,
+    "day_cap": 12
    }
   }
  },
@@ -128,18 +103,16 @@
  "x_start_bankroll": 1.0,
  "x_open_ids": [],
  "variants": {},
- "v4_realized_pnl_sol": -0.043467,
+ "v4_realized_pnl_sol": -0.03701,
  "v4": {
   "since_et": "2026-11-23T16:11:03-0500",
   "start_bankroll": 1.0,
-  "realized_pnl_sol": -0.043467,
-  "bankroll_sol": 0.956533,
-  "open_ids": [
-   "L0139"
-  ],
-  "unrealized_pnl_sol": -0.000717,
-  "deployed_sol": 0.023913,
-  "closed_total": 5,
+  "realized_pnl_sol": -0.03701,
+  "bankroll_sol": 0.96299,
+  "open_ids": [],
+  "unrealized_pnl_sol": 0,
+  "deployed_sol": 0,
+  "closed_total": 6,
   "trades_total": 6,
   "exit": "TP30_S15_T30",
   "min_age_h": 6.0,

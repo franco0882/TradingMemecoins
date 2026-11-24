@@ -676,3 +676,7 @@
 2026-11-24T18:35:35-0500 SIGNAL B-shadow/B nut AnCxwHsw2oH9uRuL11uBoirsXMiNczugoy3Ukyc66M9k mc=35649 liq=45791 m5=265496 regime:B_paused_in_COLD;age_basis=pool
 2026-11-24T18:35:35-0500 SIGNAL B-shadow/B goldcoin Cp6i5Ka8Gwzzn537KoqLyjQCFX6QBfoAC9WuxEbQpump mc=59011 liq=20077 m5=15423 regime:B_paused_in_COLD;age_basis=pool
 2026-11-24T18:35:35-0500 RUN ok seen=127 new=5 closed=3 open=29 total=1227 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
+2026-11-24T18:40:34-0500 SIGNAL R-band/R DUVAL GSCEX9UrRTyr3xt6TA1bTRni995FoE5t4qKsvsiyc2ui mc=192104 liq=24192 m5=116665 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-24T18:40:34-0500 SIGNAL R-band/R nut Hp1RVfqfmR7oxTUGHJBXUMPEV1yRQd87GUgXHhsHtVn4 mc=174211 liq=23594 m5=42077 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-24T18:40:34-0500 SIGNAL A-nearmiss/A goldcoin Cp6i5Ka8Gwzzn537KoqLyjQCFX6QBfoAC9WuxEbQpump mc=69507 liq=22637 m5=30579 vol5m<50k;liq<30k;catalyst=unverified
+2026-11-24T18:40:34-0500 RUN ok seen=123 new=3 closed=0 open=32 total=1230 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.5s
