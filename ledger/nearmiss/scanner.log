@@ -652,3 +652,4 @@
 2026-11-24T09:20:35-0500 SIGNAL A-nearmiss/A 英伟达 2dmtCNXK1Zdaci2P6zAGgg83DD47UycqFDcvDDGx2eNP mc=31805 liq=43017 m5=46202 vol5m<50k;catalyst=unverified
 2026-11-24T09:20:35-0500 SIGNAL B-shadow/B 英伟达 2dmtCNXK1Zdaci2P6zAGgg83DD47UycqFDcvDDGx2eNP mc=31805 liq=43017 m5=46202 regime:B_paused_in_COLD;age_basis=pool
 2026-11-24T09:20:35-0500 RUN ok seen=108 new=3 closed=0 open=32 total=1207 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
+2026-11-24T09:25:35-0500 RUN ok seen=109 new=0 closed=1 open=31 total=1207 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
