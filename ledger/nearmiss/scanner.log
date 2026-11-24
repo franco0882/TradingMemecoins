@@ -670,3 +670,9 @@
 2026-11-24T18:30:35-0500 SIGNAL B-shadow/B Hope GUeaFe2tzV7J4vxcBQbboJwnkDTFCVRqSFjF83XHpump mc=70021 liq=18977 m5=105021 regime:B_paused_in_COLD;age_basis=pool
 2026-11-24T18:30:35-0500 SIGNAL B-shadow/B 4CHAN DVdWuNK8ncn79B6z8nCiwcNAiwyFcmBPfChgxJGTpump mc=138961 liq=26280 m5=47529 regime:B_paused_in_COLD;age_basis=pool
 2026-11-24T18:30:35-0500 RUN ok seen=126 new=5 closed=1 open=27 total=1222 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
+2026-11-24T18:35:35-0500 SIGNAL FULL-PASS/A nut AnCxwHsw2oH9uRuL11uBoirsXMiNczugoy3Ukyc66M9k mc=35649 liq=45791 m5=265496 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-24T18:35:35-0500 SIGNAL FULL-PASS/A JIMMY Mt8pUXSmzfSxkdqsNE2b9GEaEg3yxykFVLQ75caxu7c mc=291430 liq=99884 m5=242696 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-24T18:35:35-0500 SIGNAL FULL-PASS/A DONJENSEN 5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump mc=1439697 liq=87480 m5=64891 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-24T18:35:35-0500 SIGNAL B-shadow/B nut AnCxwHsw2oH9uRuL11uBoirsXMiNczugoy3Ukyc66M9k mc=35649 liq=45791 m5=265496 regime:B_paused_in_COLD;age_basis=pool
+2026-11-24T18:35:35-0500 SIGNAL B-shadow/B goldcoin Cp6i5Ka8Gwzzn537KoqLyjQCFX6QBfoAC9WuxEbQpump mc=59011 liq=20077 m5=15423 regime:B_paused_in_COLD;age_basis=pool
+2026-11-24T18:35:35-0500 RUN ok seen=127 new=5 closed=3 open=29 total=1227 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
