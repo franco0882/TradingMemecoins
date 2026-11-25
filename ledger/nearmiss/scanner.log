@@ -681,3 +681,17 @@
 2026-11-24T18:40:34-0500 SIGNAL A-nearmiss/A goldcoin Cp6i5Ka8Gwzzn537KoqLyjQCFX6QBfoAC9WuxEbQpump mc=69507 liq=22637 m5=30579 vol5m<50k;liq<30k;catalyst=unverified
 2026-11-24T18:40:34-0500 RUN ok seen=123 new=3 closed=0 open=32 total=1230 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.5s
 2026-11-24T18:45:35-0500 RUN ok seen=124 new=0 closed=2 open=30 total=1230 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.5s
+2026-11-25T00:35:44-0500 SIGNAL FULL-PASS/A TIKTOK BNidyMmNZgae6FtjGgHzr7UJN6F6x612u65XgCbwjk57 mc=177795 liq=137677 m5=843704 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-25T00:35:44-0500 SIGNAL FULL-PASS/A BASKET R7xWi5gxub8Ahcu6WgVaqoMGMGRDmatNwvLPTcENjKV mc=43540 liq=77563 m5=142753 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-25T00:35:44-0500 SIGNAL R-band/R TIKTOK BNidyMmNZgae6FtjGgHzr7UJN6F6x612u65XgCbwjk57 mc=177795 liq=137677 m5=843704 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-25T00:35:44-0500 SIGNAL R-band/R KOOP 6zD5fGV11kU4bBshABjBNN4t3CbsDrd9gr1GwpNKjSiS mc=112166 liq=200702 m5=358098 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-25T00:35:44-0500 SIGNAL R-band/R BASKET 65QXpCApWKW7Yj1BxMqgqP8Z1Ls87i2Fet4TXKr9H8J8 mc=254272 liq=33667 m5=225747 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-25T00:35:44-0500 SIGNAL B-shadow/B BASKET R7xWi5gxub8Ahcu6WgVaqoMGMGRDmatNwvLPTcENjKV mc=43540 liq=77563 m5=142753 regime:B_paused_in_COLD;age_basis=pool
+2026-11-25T00:35:44-0500 SIGNAL B-shadow/B FUCKCANCER 4UMErmfmKzDCVmHrwBUbnDnbQnVKVYAcT7X5AdTkpump mc=128387 liq=23455 m5=25952 regime:B_paused_in_COLD;age_basis=pool
+2026-11-25T00:35:44-0500 SIGNAL R-band/R FUCKCANCER 4UMErmfmKzDCVmHrwBUbnDnbQnVKVYAcT7X5AdTkpump mc=128387 liq=23455 m5=25952 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-25T00:35:44-0500 SIGNAL R-band/R BASKET 3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f mc=223773 liq=75065 m5=24055 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-25T00:35:44-0500 SIGNAL R-band/R CBUCKS DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump mc=5589815 liq=273810 m5=5290 mcap_outside_R_range_300k-5M(above);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-25T00:35:44-0500 SIGNAL R-band/R PERRO 4Di56UJzpnb7E4D7aLXFf7aLF5TrpJYv9Q3mR398pump mc=149282 liq=29388 m5=4541 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-25T00:35:44-0500 SIGNAL R-band/R ChristmASS CLxrgvfFs3gr9BQhTAfGxZDsiHfVUQTDEahfiZdLpump mc=151478 liq=27391 m5=2155 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-25T00:35:44-0500 SIGNAL R-band/R g8r J3CyaS4R7dfzWh3dWHjKxXeAEuHQMJjcLet52z6HbDSa mc=104781 liq=49472 m5=0 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-25T00:35:44-0500 RUN ok seen=129 new=13 closed=21 open=22 total=1243 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.5s

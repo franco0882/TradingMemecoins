@@ -6,7 +6,7 @@
  "positions": [],
  "next_id": 140,
  "created_et": "2026-11-18T15:40:35-0500",
- "updated_et": "2026-11-24T18:45:35-0500",
+ "updated_et": "2026-11-25T00:35:44-0500",
  "open_count": 0,
  "open_ids": [],
  "bankroll_sol": 0.072679,
@@ -25,7 +25,7 @@
   "reentry_cooldown_h": 6
  },
  "watch_mode": "off",
- "last_run_t": 1795563935.0885086,
+ "last_run_t": 1795584944.0103588,
  "f_realized_pnl_sol": -0.229904,
  "f_bankroll_sol": 0.770096,
  "f_start_bankroll": 1.0,
@@ -43,7 +43,7 @@
   "clone_minlen": 4
  },
  "bandit": {
-  "updated_et": "2026-11-24T18:45:35-0500",
+  "updated_et": "2026-11-25T00:35:44-0500",
   "method": "thompson_gaussian_clean_net_pct",
   "min_share": 0.15,
   "min_cap": 3,
@@ -68,8 +68,8 @@
     "n_clean": 5,
     "post_mean": -1.07,
     "post_sd": 9.45,
-    "p_best": 0.986,
-    "share": 0.84,
+    "p_best": 0.985,
+    "share": 0.839,
     "day_cap": 25
    },
    "A-NEARMISS-F": {
@@ -77,23 +77,23 @@
     "post_mean": -35.09,
     "post_sd": 12.12,
     "p_best": 0.015,
-    "share": 0.16,
+    "share": 0.161,
     "day_cap": 5
    },
    "A-FULLPASS-V4": {
     "n_clean": 1,
     "post_mean": 9.0,
     "post_sd": 14.43,
-    "p_best": 0.638,
-    "share": 0.597,
+    "p_best": 0.65,
+    "share": 0.605,
     "day_cap": 18
    },
    "A-NEARMISS-V4": {
     "n_clean": 0,
     "post_mean": 0.0,
     "post_sd": 17.68,
-    "p_best": 0.362,
-    "share": 0.403,
+    "p_best": 0.35,
+    "share": 0.395,
     "day_cap": 12
    }
   }
