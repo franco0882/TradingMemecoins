@@ -695,3 +695,8 @@
 2026-11-25T00:35:44-0500 SIGNAL R-band/R ChristmASS CLxrgvfFs3gr9BQhTAfGxZDsiHfVUQTDEahfiZdLpump mc=151478 liq=27391 m5=2155 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-25T00:35:44-0500 SIGNAL R-band/R g8r J3CyaS4R7dfzWh3dWHjKxXeAEuHQMJjcLet52z6HbDSa mc=104781 liq=49472 m5=0 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-25T00:35:44-0500 RUN ok seen=129 new=13 closed=21 open=22 total=1243 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.5s
+2026-11-25T00:40:35-0500 SIGNAL FULL-PASS/A KOOP 6zD5fGV11kU4bBshABjBNN4t3CbsDrd9gr1GwpNKjSiS mc=113129 liq=202125 m5=329662 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-25T00:40:35-0500 SIGNAL R-band/R CHUCK F7FsMCj9GVxmW52qerHe9t7sDTYyZRiWDDVnR3HR5yCW mc=100428 liq=97757 m5=609116 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-25T00:40:35-0500 SIGNAL B-shadow/B KOOP 6zD5fGV11kU4bBshABjBNN4t3CbsDrd9gr1GwpNKjSiS mc=113129 liq=202125 m5=329662 regime:B_paused_in_COLD;age_basis=pool
+2026-11-25T00:40:35-0500 SIGNAL B-shadow/B GPU Father Eg3ZJjGxfsNro81CJARpZDxPXNENd25TwJofVxQMmssW mc=30169 liq=42421 m5=24463 regime:B_paused_in_COLD;age_basis=pool
+2026-11-25T00:40:35-0500 RUN ok seen=121 new=4 closed=1 open=25 total=1247 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
