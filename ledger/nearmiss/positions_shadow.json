@@ -1,5 +1,5 @@
 {
- "updated_et": "2026-11-25T11:15:35-0500",
+ "updated_et": "2026-11-25T11:20:35-0500",
  "positions": [
   {
    "row_id": "NM1795028435-ERiM8N-R",
@@ -195,7 +195,7 @@
    "tp_done": [],
    "stop_px": 0.0001272,
    "peak": 0.000212,
-   "low": 0.0001841,
+   "low": 0.0001751,
    "trailing": false,
    "reached_10": false
   },
