@@ -711,3 +711,4 @@
 2026-11-25T11:02:27-0500 SIGNAL R-band/R BIAO As3XtYSstuVdrVyb6sJZZ77Tu8JvjTBg6S6hgPv4pump mc=210915 liq=32081 m5=0 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-25T11:02:27-0500 SIGNAL R-band/R PERRO 4Di56UJzpnb7E4D7aLXFf7aLF5TrpJYv9Q3mR398pump mc=217856 liq=36858 m5=0 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-25T11:02:27-0500 RUN ok seen=113 new=3 closed=14 open=15 total=1255 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.7s
+2026-11-25T11:05:35-0500 RUN ok seen=111 new=0 closed=0 open=15 total=1255 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.7s

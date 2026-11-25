@@ -1,5 +1,5 @@
 {
- "last_run_et": "2026-11-25T11:02:27-0500",
+ "last_run_et": "2026-11-25T11:05:35-0500",
  "duration_s": 14.7,
  "calls": {
   "gecko": 5,
@@ -7,16 +7,14 @@
   "errors": 0,
   "429": 0
  },
- "tokens_seen": 113,
- "new_rows": 3,
- "new_by_class": {
-  "R-band/R": 3
- },
+ "tokens_seen": 111,
+ "new_rows": 0,
+ "new_by_class": {},
  "skipped_by_cap": 0,
- "closed_this_run": 14,
+ "closed_this_run": 0,
  "rows_total": 1255,
  "open_positions": 15,
  "closed_total": 1240,
  "errors_this_run": 0,
- "pid": 2234
+ "pid": 2314
 }

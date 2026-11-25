@@ -1,5 +1,5 @@
 {
- "updated_et": "2026-11-25T11:02:27-0500",
+ "updated_et": "2026-11-25T11:05:35-0500",
  "positions": [
   {
    "row_id": "NM1795028435-ERiM8N-R",
@@ -119,7 +119,7 @@
     2
    ],
    "stop_px": 0.00013464241151675525,
-   "peak": 0.001067,
+   "peak": 0.001111951539226075,
    "low": 0.00022440401919459208,
    "trailing": true,
    "reached_10": true
@@ -134,7 +134,7 @@
    "tp_done": [],
    "stop_px": 0.0035585999999999994,
    "peak": 0.00594,
-   "low": 0.00509,
+   "low": 0.005084,
    "trailing": false,
    "reached_10": false
   },
@@ -149,7 +149,7 @@
     0
    ],
    "stop_px": 9.014805846188613e-05,
-   "peak": 0.0002266,
+   "peak": 0.00024354193985691398,
    "low": 0.00013759251912270974,
    "trailing": false,
    "reached_10": true
@@ -166,7 +166,7 @@
     1
    ],
    "stop_px": 0.0002971998510373883,
-   "peak": 0.001067,
+   "peak": 0.001111951539226075,
    "low": 0.0002971998510373883,
    "trailing": true,
    "reached_10": true
@@ -194,10 +194,10 @@
    "realized": 0.0,
    "tp_done": [],
    "stop_px": 0.00013932,
-   "peak": 0.0002322,
+   "peak": 0.0002789,
    "low": 0.0002322,
    "trailing": false,
-   "reached_10": false
+   "reached_10": true
   },
   {
    "row_id": "NM1795622547-As3XtY-R",
@@ -209,7 +209,7 @@
    "tp_done": [],
    "stop_px": 0.0001272,
    "peak": 0.000212,
-   "low": 0.000212,
+   "low": 0.000187,
    "trailing": false,
    "reached_10": false
   },
@@ -222,7 +222,7 @@
    "realized": 0.0,
    "tp_done": [],
    "stop_px": 0.00013596,
-   "peak": 0.0002266,
+   "peak": 0.00024354193985691398,
    "low": 0.0002266,
    "trailing": false,
    "reached_10": false
