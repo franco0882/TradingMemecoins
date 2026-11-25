@@ -1,5 +1,5 @@
 {
- "updated_et": "2026-11-25T11:05:35-0500",
+ "updated_et": "2026-11-25T11:10:35-0500",
  "positions": [
   {
    "row_id": "NM1795028435-ERiM8N-R",
@@ -184,20 +184,6 @@
    "low": 86.57,
    "trailing": false,
    "reached_10": false
-  },
-  {
-   "row_id": "NM1795622547-CuQUeU-R",
-   "lane": "R",
-   "entry": 0.0002322,
-   "t0": 1795622547.221615,
-   "rem": 1.0,
-   "realized": 0.0,
-   "tp_done": [],
-   "stop_px": 0.00013932,
-   "peak": 0.0002789,
-   "low": 0.0002322,
-   "trailing": false,
-   "reached_10": true
   },
   {
    "row_id": "NM1795622547-As3XtY-R",

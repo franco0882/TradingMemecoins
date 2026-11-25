@@ -1,6 +1,6 @@
 {
- "last_run_et": "2026-11-25T11:05:35-0500",
- "duration_s": 14.7,
+ "last_run_et": "2026-11-25T11:10:35-0500",
+ "duration_s": 14.8,
  "calls": {
   "gecko": 5,
   "dex": 5,
@@ -11,10 +11,10 @@
  "new_rows": 0,
  "new_by_class": {},
  "skipped_by_cap": 0,
- "closed_this_run": 0,
+ "closed_this_run": 1,
  "rows_total": 1255,
- "open_positions": 15,
- "closed_total": 1240,
+ "open_positions": 14,
+ "closed_total": 1241,
  "errors_this_run": 0,
- "pid": 2314
+ "pid": 2507
 }
