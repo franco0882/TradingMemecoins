@@ -713,3 +713,4 @@
 2026-11-25T11:02:27-0500 RUN ok seen=113 new=3 closed=14 open=15 total=1255 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.7s
 2026-11-25T11:05:35-0500 RUN ok seen=111 new=0 closed=0 open=15 total=1255 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.7s
 2026-11-25T11:10:35-0500 RUN ok seen=111 new=0 closed=1 open=14 total=1255 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.8s
+2026-11-25T11:15:35-0500 RUN ok seen=109 new=0 closed=0 open=14 total=1255 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 15.0s
