@@ -729,3 +729,19 @@
 2026-11-25T19:25:34-0500 SIGNAL B-shadow/B PLAZA HWqqNLpcHvxJpNy43FJwnS1xDNsvobYtpLK8ostWhQwM mc=103325 liq=20129 m5=18719 regime:B_paused_in_COLD;age_basis=pool
 2026-11-25T19:25:34-0500 SIGNAL R-band/R PLAZA HWqqNLpcHvxJpNy43FJwnS1xDNsvobYtpLK8ostWhQwM mc=103325 liq=20129 m5=18719 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-25T19:25:34-0500 RUN ok seen=126 new=2 closed=0 open=18 total=1264 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.5s
+2026-11-26T03:07:31-0500 SIGNAL FULL-PASS/A philanthro 8e3ZphcWCiZDtqS2ZTxDZC3Bh33evT8tYJp2VXE9iKoB mc=103915 liq=164014 m5=611903 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-26T03:07:31-0500 SIGNAL FULL-PASS/A Elonmas 25WMvnpEqe1t5E3DdT8Fc5CtqycmJV24n2ZTakGfz6ru mc=154499 liq=198459 m5=414938 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-26T03:07:31-0500 SIGNAL B-shadow/B philanthro 8e3ZphcWCiZDtqS2ZTxDZC3Bh33evT8tYJp2VXE9iKoB mc=103915 liq=164014 m5=611903 regime:B_paused_in_COLD;age_basis=pool
+2026-11-26T03:07:31-0500 SIGNAL R-band/R philanthro 8e3ZphcWCiZDtqS2ZTxDZC3Bh33evT8tYJp2VXE9iKoB mc=103915 liq=164014 m5=611903 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-26T03:07:31-0500 SIGNAL R-band/R Elonmas 25WMvnpEqe1t5E3DdT8Fc5CtqycmJV24n2ZTakGfz6ru mc=154499 liq=198459 m5=414938 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-26T03:07:31-0500 SIGNAL A-nearmiss/A Elonmas 5RP2wVC5VyAsAg3QzkQsy8tWsVMpoPk24pRFLvXmUBhR mc=80446 liq=17347 m5=246329 liq<30k;catalyst=unverified
+2026-11-26T03:07:31-0500 SIGNAL B-shadow/B Elonmas 5RP2wVC5VyAsAg3QzkQsy8tWsVMpoPk24pRFLvXmUBhR mc=80446 liq=17347 m5=246329 regime:B_paused_in_COLD;age_basis=pool
+2026-11-26T03:07:31-0500 SIGNAL A-nearmiss/A Elonmas 5z6cgifysmBv4cs2WFa1CHMb691sqzw7vHyj2g7NaQTh mc=17639 liq=20912 m5=74640 liq<30k;catalyst=unverified
+2026-11-26T03:07:31-0500 SIGNAL B-shadow/B Elonmas 5z6cgifysmBv4cs2WFa1CHMb691sqzw7vHyj2g7NaQTh mc=17639 liq=20912 m5=74640 regime:B_paused_in_COLD;age_basis=pool
+2026-11-26T03:07:31-0500 SIGNAL B-shadow/B ACE 7oEVHps6cDw9DfoXWzNzyhogMgGbPHgDddBeQBVdeTTT mc=98428 liq=75485 m5=30841 regime:B_paused_in_COLD;age_basis=pool
+2026-11-26T03:07:31-0500 SIGNAL B-shadow/B NEX Ai 6S9AuuSiopvEdhvdw6CSehH2TZseZiu6WHCgsPs4v3V5 mc=37687 liq=46151 m5=21719 regime:B_paused_in_COLD;age_basis=pool
+2026-11-26T03:07:31-0500 SIGNAL B-shadow/B SpaceXCoin HHx9U98TCtfFucQ4EPyabQFwE8kjzVwoziUrwMchYzQG mc=42449 liq=49865 m5=19513 regime:B_paused_in_COLD;age_basis=pool
+2026-11-26T03:07:31-0500 SIGNAL B-shadow/B 莫达 HaHqFcbd4RS81hLbvC3YRvZkMoHuBCg4BiEnejohRbdd mc=50169 liq=54271 m5=18472 regime:B_paused_in_COLD;age_basis=pool
+2026-11-26T03:07:31-0500 SIGNAL R-band/R PUMPCHAN Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump mc=7653945 liq=206263 m5=14528 mcap_outside_R_range_300k-5M(above);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-26T03:07:31-0500 SIGNAL R-band/R CLAUDIA 2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM mc=8562194 liq=439785 m5=4848 mcap_outside_R_range_300k-5M(above);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-26T03:07:31-0500 RUN ok seen=132 new=15 closed=9 open=24 total=1279 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s

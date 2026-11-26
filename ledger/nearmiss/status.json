@@ -1,23 +1,25 @@
 {
- "last_run_et": "2026-11-25T19:25:34-0500",
- "duration_s": 14.5,
+ "last_run_et": "2026-11-26T03:07:31-0500",
+ "duration_s": 14.6,
  "calls": {
   "gecko": 5,
   "dex": 5,
   "errors": 0,
   "429": 0
  },
- "tokens_seen": 126,
- "new_rows": 2,
+ "tokens_seen": 132,
+ "new_rows": 15,
  "new_by_class": {
-  "B-shadow/B": 1,
-  "R-band/R": 1
+  "FULL-PASS/A": 2,
+  "B-shadow/B": 7,
+  "R-band/R": 4,
+  "A-nearmiss/A": 2
  },
- "skipped_by_cap": 0,
- "closed_this_run": 0,
- "rows_total": 1264,
- "open_positions": 18,
- "closed_total": 1246,
+ "skipped_by_cap": 1,
+ "closed_this_run": 9,
+ "rows_total": 1279,
+ "open_positions": 24,
+ "closed_total": 1255,
  "errors_this_run": 0,
- "pid": 2725
+ "pid": 2234
 }
