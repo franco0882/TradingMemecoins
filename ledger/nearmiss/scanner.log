@@ -753,3 +753,7 @@
 2026-11-26T03:15:35-0500 SIGNAL FULL-PASS/A SPCX SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb mc=13336013 liq=2230651 m5=89254 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
 2026-11-26T03:15:35-0500 SIGNAL A-nearmiss/A NORFEATH 3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump mc=648003 liq=57902 m5=26800 vol5m<50k;catalyst=unverified
 2026-11-26T03:15:35-0500 RUN ok seen=128 new=2 closed=0 open=24 total=1285 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
+2026-11-26T03:20:35-0500 SIGNAL A-nearmiss/A 猫猫币 2U8jAexhUvk32sKV9eweWbzbJxG8AcKhUEDnj7NdGUHy mc=133161 liq=29493 m5=77057 liq<30k;catalyst=unverified
+2026-11-26T03:20:35-0500 SIGNAL B-shadow/B 猫猫币 2U8jAexhUvk32sKV9eweWbzbJxG8AcKhUEDnj7NdGUHy mc=133161 liq=29493 m5=77057 regime:B_paused_in_COLD;age_basis=pool
+2026-11-26T03:20:35-0500 SIGNAL R-band/R 猫猫币 2U8jAexhUvk32sKV9eweWbzbJxG8AcKhUEDnj7NdGUHy mc=133161 liq=29493 m5=77057 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-26T03:20:35-0500 RUN ok seen=128 new=3 closed=1 open=26 total=1288 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
