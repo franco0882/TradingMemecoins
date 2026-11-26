@@ -1,5 +1,5 @@
 {
- "updated_et": "2026-11-25T19:15:35-0500",
+ "updated_et": "2026-11-25T19:20:47-0500",
  "positions": [
   {
    "row_id": "NM1795028435-ERiM8N-R",
@@ -157,7 +157,7 @@
    "realized": 0.0,
    "tp_done": [],
    "stop_px": 0.00011635036953190614,
-   "peak": 0.00020168782570247255,
+   "peak": 0.00021084049710114048,
    "low": 0.0001930180683003393,
    "trailing": false,
    "reached_10": false
@@ -171,7 +171,7 @@
    "realized": 0.0,
    "tp_done": [],
    "stop_px": 0.00015024,
-   "peak": 0.0002835,
+   "peak": 0.0003123,
    "low": 0.0002418,
    "trailing": false,
    "reached_10": true
@@ -185,7 +185,7 @@
    "realized": 0.0,
    "tp_done": [],
    "stop_px": 0.005710334001742061,
-   "peak": 0.00951722333623677,
+   "peak": 0.009527375810803582,
    "low": 0.009426423735303615,
    "trailing": false,
    "reached_10": false
@@ -227,10 +227,10 @@
    "realized": 0.0,
    "tp_done": [],
    "stop_px": 0.00014442,
-   "peak": 0.0002407,
+   "peak": 0.0003038,
    "low": 0.0002407,
    "trailing": false,
-   "reached_10": false
+   "reached_10": true
   }
  ]
 }
