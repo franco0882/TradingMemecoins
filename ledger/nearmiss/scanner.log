@@ -785,3 +785,6 @@
 2026-11-26T13:35:35-0500 SIGNAL B-shadow/B Criminul 5qYyTjP1Y2xfSUUayyEfXP5mxxBg1CEKcdPvmYEApump mc=59664 liq=19924 m5=44567 regime:B_paused_in_COLD;age_basis=pool
 2026-11-26T13:35:35-0500 SIGNAL R-band/R PAIR 32rBxcFjCFnyqZ41CEPM5AL67X1dcw8w83vZt6Kxpump mc=279577 liq=42102 m5=7115 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-26T13:35:35-0500 RUN ok seen=121 new=8 closed=0 open=29 total=1311 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.5s
+2026-11-26T13:40:34-0500 SIGNAL A-nearmiss/A wXMR WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp mc=1071786 liq=241052 m5=31877 vol5m<50k;catalyst=unverified
+2026-11-26T13:40:34-0500 SIGNAL R-band/R Ansemmas HXxJdaQbrYRvwTAM8M8mUPyoRPvmyuUbPFBRkiAAMASS mc=288587 liq=52407 m5=8362 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-26T13:40:34-0500 RUN ok seen=120 new=2 closed=3 open=28 total=1313 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.5s
