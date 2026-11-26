@@ -6,7 +6,7 @@
  "positions": [],
  "next_id": 140,
  "created_et": "2026-11-18T15:40:35-0500",
- "updated_et": "2026-11-25T19:09:29-0500",
+ "updated_et": "2026-11-25T19:10:59-0500",
  "open_count": 0,
  "open_ids": [],
  "bankroll_sol": 0.072679,
@@ -25,7 +25,7 @@
   "reentry_cooldown_h": 6
  },
  "watch_mode": "off",
- "last_run_t": 1795651769.9183998,
+ "last_run_t": 1795651859.3075376,
  "f_realized_pnl_sol": -0.229904,
  "f_bankroll_sol": 0.770096,
  "f_start_bankroll": 1.0,
@@ -43,7 +43,7 @@
   "clone_minlen": 4
  },
  "bandit": {
-  "updated_et": "2026-11-25T19:09:29-0500",
+  "updated_et": "2026-11-25T19:10:59-0500",
   "method": "thompson_gaussian_clean_net_pct",
   "min_share": 0.15,
   "min_cap": 3,
