@@ -745,3 +745,8 @@
 2026-11-26T03:07:31-0500 SIGNAL R-band/R PUMPCHAN Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump mc=7653945 liq=206263 m5=14528 mcap_outside_R_range_300k-5M(above);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-26T03:07:31-0500 SIGNAL R-band/R CLAUDIA 2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM mc=8562194 liq=439785 m5=4848 mcap_outside_R_range_300k-5M(above);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-26T03:07:31-0500 RUN ok seen=132 new=15 closed=9 open=24 total=1279 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
+2026-11-26T03:10:35-0500 SIGNAL A-nearmiss/A Zero 4zaBGSFGCRAFL8yYNTwkH95Kupm3yRhjkQMjbFHVrjqL mc=33960 liq=44168 m5=30573 vol5m<50k;catalyst=unverified
+2026-11-26T03:10:35-0500 SIGNAL B-shadow/B Zero 4zaBGSFGCRAFL8yYNTwkH95Kupm3yRhjkQMjbFHVrjqL mc=33960 liq=44168 m5=30573 regime:B_paused_in_COLD;age_basis=pool
+2026-11-26T03:10:35-0500 SIGNAL B-shadow/B Zero FL8wA5BP1woRrHNbYKwUf6iPxiuosyybsWwmVqsGsB88 mc=60187 liq=59215 m5=24222 regime:B_paused_in_COLD;age_basis=pool
+2026-11-26T03:10:35-0500 SIGNAL R-band/R Elonmas 6B5X3keXJ4J8LLvswa2mbqMhrRDbt85Jo88sbB6apump mc=124549 liq=27619 m5=5296 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-26T03:10:35-0500 RUN ok seen=132 new=4 closed=6 open=22 total=1283 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
