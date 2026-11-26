@@ -767,3 +767,6 @@
 2026-11-26T13:23:19-0500 SIGNAL R-band/R NORFEATH 3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump mc=292511 liq=41209 m5=1193 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-26T13:23:19-0500 SIGNAL R-band/R Snowball 9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump mc=143015 liq=27468 m5=518 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-26T13:23:19-0500 RUN ok seen=126 new=7 closed=15 open=16 total=1296 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
+2026-11-26T13:25:35-0500 SIGNAL FULL-PASS/A QILIN HoxYDbb4Tx271vtk7PKKeYs3zxtWAN3obG8groA2vp3F mc=128716 liq=181637 m5=551340 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-26T13:25:35-0500 SIGNAL B-shadow/B QILIN HoxYDbb4Tx271vtk7PKKeYs3zxtWAN3obG8groA2vp3F mc=128716 liq=181637 m5=551340 regime:B_paused_in_COLD;age_basis=pool
+2026-11-26T13:25:35-0500 RUN ok seen=118 new=2 closed=1 open=17 total=1298 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.5s
