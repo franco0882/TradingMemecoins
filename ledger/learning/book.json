@@ -16,11 +16,11 @@
    "realized": 0.0,
    "done_tps": [],
    "stop": 109.32662294,
-   "peak": 128.6195564,
+   "peak": 128.688216893364,
    "low": 127.96677851871407,
    "trailing": false,
    "gap": 0,
-   "n": 1,
+   "n": 2,
    "trade_id": "L0140",
    "mint": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
    "symbol": "SPCX",
@@ -28,36 +28,11 @@
    "entry_liq": 2230651.0,
    "pool": "FjuBy7jjf9DXj9d3R7cHpvcnoFW2iQxf7F7P3vqx4Jza",
    "rug_strikes": 0
-  },
-  {
-   "row_id": "L0141",
-   "lane": "A",
-   "entry": 0.0006388754581,
-   "t0": 1795680935.068844,
-   "exit": "TP30_S15_T30",
-   "size": 0.024075,
-   "explore": 0,
-   "rem": 1.0,
-   "realized": 0.0,
-   "done_tps": [],
-   "stop": 0.000543044139385,
-   "peak": 0.0007436929787750413,
-   "low": 0.0006388754581,
-   "trailing": false,
-   "gap": 0,
-   "n": 1,
-   "trade_id": "L0141",
-   "mint": "3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump",
-   "symbol": "NORFEATH",
-   "strategy": "A-NEARMISS-V4",
-   "entry_liq": 57902.0,
-   "pool": "FUzScAtZzSt9rzMtt2pCDLPpJ1ikYC5LgDNjYtfWyqdj",
-   "rug_strikes": 0
   }
  ],
  "next_id": 142,
  "created_et": "2026-11-18T15:40:35-0500",
- "updated_et": "2026-11-26T03:20:35-0500",
+ "updated_et": "2026-11-26T03:25:35-0500",
  "open_count": 0,
  "open_ids": [],
  "bankroll_sol": 0.072679,
@@ -76,7 +51,7 @@
   "reentry_cooldown_h": 6
  },
  "watch_mode": "off",
- "last_run_t": 1795681235.6389604,
+ "last_run_t": 1795681535.3051045,
  "f_realized_pnl_sol": -0.229904,
  "f_bankroll_sol": 0.770096,
  "f_start_bankroll": 1.0,
@@ -86,7 +61,7 @@
  "f_deployed_sol": 0.0,
  "f_closed_total": 39,
  "f_trades_total": 39,
- "open_count_total": 2,
+ "open_count_total": 1,
  "filter": {
   "liq_mcap_max": 0.5,
   "vol1h_liq_max": 20.0,
@@ -94,7 +69,7 @@
   "clone_minlen": 4
  },
  "bandit": {
-  "updated_et": "2026-11-26T03:20:35-0500",
+  "updated_et": "2026-11-26T03:25:35-0500",
   "method": "thompson_gaussian_clean_net_pct",
   "min_share": 0.15,
   "min_cap": 3,
@@ -135,17 +110,17 @@
     "n_clean": 1,
     "post_mean": 9.0,
     "post_sd": 14.43,
-    "p_best": 0.656,
-    "share": 0.609,
-    "day_cap": 18
+    "p_best": 0.505,
+    "share": 0.503,
+    "day_cap": 15
    },
    "A-NEARMISS-V4": {
-    "n_clean": 0,
-    "post_mean": 0.0,
-    "post_sd": 17.68,
-    "p_best": 0.344,
-    "share": 0.391,
-    "day_cap": 12
+    "n_clean": 1,
+    "post_mean": 9.0,
+    "post_sd": 14.43,
+    "p_best": 0.495,
+    "share": 0.496,
+    "day_cap": 15
    }
   }
  },
@@ -154,19 +129,18 @@
  "x_start_bankroll": 1.0,
  "x_open_ids": [],
  "variants": {},
- "v4_realized_pnl_sol": -0.03701,
+ "v4_realized_pnl_sol": -0.03051,
  "v4": {
   "since_et": "2026-11-23T16:11:03-0500",
   "start_bankroll": 1.0,
-  "realized_pnl_sol": -0.03701,
-  "bankroll_sol": 0.96299,
+  "realized_pnl_sol": -0.03051,
+  "bankroll_sol": 0.96949,
   "open_ids": [
-   "L0140",
-   "L0141"
+   "L0140"
   ],
-  "unrealized_pnl_sol": 0.002383,
-  "deployed_sol": 0.04815,
-  "closed_total": 6,
+  "unrealized_pnl_sol": -0.00071,
+  "deployed_sol": 0.024075,
+  "closed_total": 7,
   "trades_total": 8,
   "exit": "TP30_S15_T30",
   "min_age_h": 6.0,

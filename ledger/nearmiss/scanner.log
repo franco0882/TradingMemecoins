@@ -757,3 +757,5 @@
 2026-11-26T03:20:35-0500 SIGNAL B-shadow/B 猫猫币 2U8jAexhUvk32sKV9eweWbzbJxG8AcKhUEDnj7NdGUHy mc=133161 liq=29493 m5=77057 regime:B_paused_in_COLD;age_basis=pool
 2026-11-26T03:20:35-0500 SIGNAL R-band/R 猫猫币 2U8jAexhUvk32sKV9eweWbzbJxG8AcKhUEDnj7NdGUHy mc=133161 liq=29493 m5=77057 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-26T03:20:35-0500 RUN ok seen=128 new=3 closed=1 open=26 total=1288 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
+2026-11-26T03:25:35-0500 SIGNAL FULL-PASS/A NORFEATH 3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump mc=974998 liq=73474 m5=55042 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-26T03:25:35-0500 RUN ok seen=130 new=1 closed=3 open=24 total=1289 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.7s
