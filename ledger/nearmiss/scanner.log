@@ -759,3 +759,11 @@
 2026-11-26T03:20:35-0500 RUN ok seen=128 new=3 closed=1 open=26 total=1288 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
 2026-11-26T03:25:35-0500 SIGNAL FULL-PASS/A NORFEATH 3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump mc=974998 liq=73474 m5=55042 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
 2026-11-26T03:25:35-0500 RUN ok seen=130 new=1 closed=3 open=24 total=1289 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.7s
+2026-11-26T13:23:19-0500 SIGNAL R-band/R QILIN HoxYDbb4Tx271vtk7PKKeYs3zxtWAN3obG8groA2vp3F mc=127461 liq=178512 m5=122355 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-26T13:23:19-0500 SIGNAL A-nearmiss/A PEDALFIN CD3AHwDcZziU85JpxxMLW2xhXHJUgDyjUxJVjmUZpump mc=69344 liq=18133 m5=99240 liq<30k;catalyst=unverified
+2026-11-26T13:23:19-0500 SIGNAL B-shadow/B PEDALFIN CD3AHwDcZziU85JpxxMLW2xhXHJUgDyjUxJVjmUZpump mc=69344 liq=18133 m5=99240 regime:B_paused_in_COLD;age_basis=pool
+2026-11-26T13:23:19-0500 SIGNAL R-band/R PNP AqWGR4sXRxUfgzmyDhcCy1jqRs51jdNF7Y1KM7LWAdHo mc=218219 liq=94779 m5=65330 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-26T13:23:19-0500 SIGNAL R-band/R JANTA 9tERTsZZj19ZHAqg7URtfkfPdaCiVeR4JkuPVoHrpump mc=156931 liq=27289 m5=4840 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-26T13:23:19-0500 SIGNAL R-band/R NORFEATH 3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump mc=292511 liq=41209 m5=1193 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-26T13:23:19-0500 SIGNAL R-band/R Snowball 9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump mc=143015 liq=27468 m5=518 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-26T13:23:19-0500 RUN ok seen=126 new=7 closed=15 open=16 total=1296 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
