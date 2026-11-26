@@ -1,5 +1,5 @@
 {
- "updated_et": "2026-11-25T19:10:59-0500",
+ "updated_et": "2026-11-25T19:15:35-0500",
  "positions": [
   {
    "row_id": "NM1795028435-ERiM8N-R",
@@ -144,7 +144,7 @@
    "tp_done": [],
    "stop_px": 0.0001272,
    "peak": 0.000212,
-   "low": 0.0001736,
+   "low": 0.0001699,
    "trailing": false,
    "reached_10": false
   },
@@ -157,7 +157,7 @@
    "realized": 0.0,
    "tp_done": [],
    "stop_px": 0.00011635036953190614,
-   "peak": 0.00019391728255317692,
+   "peak": 0.00020168782570247255,
    "low": 0.0001930180683003393,
    "trailing": false,
    "reached_10": false
@@ -171,10 +171,10 @@
    "realized": 0.0,
    "tp_done": [],
    "stop_px": 0.00015024,
-   "peak": 0.0002504,
+   "peak": 0.0002835,
    "low": 0.0002418,
    "trailing": false,
-   "reached_10": false
+   "reached_10": true
   },
   {
    "row_id": "NM1795651769-6AJcP7-R",
@@ -199,10 +199,10 @@
    "realized": 0.0,
    "tp_done": [],
    "stop_px": 0.00023536,
-   "peak": 0.0002942,
+   "peak": 0.0003341,
    "low": 0.0002942,
    "trailing": false,
-   "reached_10": false
+   "reached_10": true
   },
   {
    "row_id": "NM1795651859-BQTG5q-R",
@@ -213,8 +213,22 @@
    "realized": 0.0,
    "tp_done": [],
    "stop_px": 0.00017652,
-   "peak": 0.0002942,
+   "peak": 0.0003341,
    "low": 0.0002942,
+   "trailing": false,
+   "reached_10": true
+  },
+  {
+   "row_id": "NM1795652135-5CPiu3-R",
+   "lane": "R",
+   "entry": 0.0002407,
+   "t0": 1795652135.3623884,
+   "rem": 1.0,
+   "realized": 0.0,
+   "tp_done": [],
+   "stop_px": 0.00014442,
+   "peak": 0.0002407,
+   "low": 0.0002407,
    "trailing": false,
    "reached_10": false
   }
