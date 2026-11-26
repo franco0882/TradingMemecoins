@@ -1,5 +1,5 @@
 {
- "updated_et": "2026-11-25T19:20:47-0500",
+ "updated_et": "2026-11-25T19:25:34-0500",
  "positions": [
   {
    "row_id": "NM1795028435-ERiM8N-R",
@@ -144,7 +144,7 @@
    "tp_done": [],
    "stop_px": 0.0001272,
    "peak": 0.000212,
-   "low": 0.0001699,
+   "low": 0.0001671,
    "trailing": false,
    "reached_10": false
   },
@@ -157,21 +157,23 @@
    "realized": 0.0,
    "tp_done": [],
    "stop_px": 0.00011635036953190614,
-   "peak": 0.00021084049710114048,
+   "peak": 0.0002174620265229051,
    "low": 0.0001930180683003393,
    "trailing": false,
-   "reached_10": false
+   "reached_10": true
   },
   {
    "row_id": "NM1795651769-Bnw5JR-R",
    "lane": "R",
    "entry": 0.0002504,
    "t0": 1795651769.9183998,
-   "rem": 1.0,
-   "realized": 0.0,
-   "tp_done": [],
+   "rem": 0.8,
+   "realized": 0.30000000000000004,
+   "tp_done": [
+    0
+   ],
    "stop_px": 0.00015024,
-   "peak": 0.0003123,
+   "peak": 0.0004651,
    "low": 0.0002418,
    "trailing": false,
    "reached_10": true
@@ -200,7 +202,7 @@
    "tp_done": [],
    "stop_px": 0.00023536,
    "peak": 0.0003341,
-   "low": 0.0002942,
+   "low": 0.0002644,
    "trailing": false,
    "reached_10": true
   },
@@ -214,7 +216,7 @@
    "tp_done": [],
    "stop_px": 0.00017652,
    "peak": 0.0003341,
-   "low": 0.0002942,
+   "low": 0.0002644,
    "trailing": false,
    "reached_10": true
   },
@@ -227,10 +229,38 @@
    "realized": 0.0,
    "tp_done": [],
    "stop_px": 0.00014442,
-   "peak": 0.0003038,
+   "peak": 0.0003276,
    "low": 0.0002407,
    "trailing": false,
    "reached_10": true
+  },
+  {
+   "row_id": "NM1795652734-HWqqNL-B",
+   "lane": "B",
+   "entry": 0.0001065,
+   "t0": 1795652734.7543976,
+   "rem": 1.0,
+   "realized": 0.0,
+   "tp_done": [],
+   "stop_px": 7.455e-05,
+   "peak": 0.0001065,
+   "low": 0.0001065,
+   "trailing": false,
+   "reached_10": false
+  },
+  {
+   "row_id": "NM1795652734-HWqqNL-R",
+   "lane": "R",
+   "entry": 0.0001065,
+   "t0": 1795652734.7543976,
+   "rem": 1.0,
+   "realized": 0.0,
+   "tp_done": [],
+   "stop_px": 6.39e-05,
+   "peak": 0.0001065,
+   "low": 0.0001065,
+   "trailing": false,
+   "reached_10": false
   }
  ]
 }
