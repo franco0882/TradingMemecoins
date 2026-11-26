@@ -1,5 +1,5 @@
 {
- "updated_et": "2026-11-26T03:10:35-0500",
+ "updated_et": "2026-11-26T03:15:35-0500",
  "positions": [
   {
    "row_id": "NM1795028435-ERiM8N-R",
@@ -81,7 +81,7 @@
    "tp_done": [],
    "stop_px": 0.0001272,
    "peak": 0.000212,
-   "low": 0.0001387,
+   "low": 0.0001361,
    "trailing": false,
    "reached_10": false
   },
@@ -95,7 +95,7 @@
    "tp_done": [],
    "stop_px": 0.00011635036953190614,
    "peak": 0.0002174620265229051,
-   "low": 0.00014831876397992092,
+   "low": 0.00014827066336504873,
    "trailing": false,
    "reached_10": true
   },
@@ -112,7 +112,7 @@
     2
    ],
    "stop_px": 0.00015024,
-   "peak": 0.001158,
+   "peak": 0.001214,
    "low": 0.0002418,
    "trailing": true,
    "reached_10": true
@@ -140,7 +140,7 @@
    "realized": 0.0,
    "tp_done": [],
    "stop_px": 0.00012340673743527195,
-   "peak": 0.00016007921138842858,
+   "peak": 0.00016446770520969035,
    "low": 0.00015425842179408994,
    "trailing": false,
    "reached_10": false
@@ -154,7 +154,7 @@
    "realized": 0.0,
    "tp_done": [],
    "stop_px": 9.255505307645397e-05,
-   "peak": 0.00016007921138842858,
+   "peak": 0.00016446770520969035,
    "low": 0.00015425842179408994,
    "trailing": false,
    "reached_10": false
@@ -164,28 +164,34 @@
    "lane": "A",
    "entry": 1.763889755192806e-05,
    "t0": 1795680451.4875093,
-   "rem": 1.0,
-   "realized": 0.0,
-   "tp_done": [],
-   "stop_px": 1.411111804154245e-05,
-   "peak": 1.8568172148303976e-05,
+   "rem": 0.3,
+   "realized": 1.16,
+   "tp_done": [
+    0,
+    1
+   ],
+   "stop_px": 1.763889755192806e-05,
+   "peak": 4.176890116395371e-05,
    "low": 1.763889755192806e-05,
-   "trailing": false,
-   "reached_10": false
+   "trailing": true,
+   "reached_10": true
   },
   {
    "row_id": "NM1795680451-5z6cgi-B",
    "lane": "B",
    "entry": 1.763889755192806e-05,
    "t0": 1795680451.4875093,
-   "rem": 1.0,
-   "realized": 0.0,
-   "tp_done": [],
-   "stop_px": 1.2347228286349641e-05,
-   "peak": 1.8568172148303976e-05,
+   "rem": 0.3,
+   "realized": 1.16,
+   "tp_done": [
+    0,
+    1
+   ],
+   "stop_px": 1.763889755192806e-05,
+   "peak": 4.176890116395371e-05,
    "low": 1.763889755192806e-05,
-   "trailing": false,
-   "reached_10": false
+   "trailing": true,
+   "reached_10": true
   },
   {
    "row_id": "NM1795680451-6S9Auu-B",
@@ -196,7 +202,7 @@
    "realized": 0.0,
    "tp_done": [],
    "stop_px": 2.6170565503537727e-05,
-   "peak": 4.250843973509712e-05,
+   "peak": 4.67765478660621e-05,
    "low": 3.738652214791104e-05,
    "trailing": false,
    "reached_10": true
@@ -210,10 +216,10 @@
    "realized": 0.0,
    "tp_done": [],
    "stop_px": 2.9714245301994307e-05,
-   "peak": 4.5743701209761106e-05,
+   "peak": 4.788e-05,
    "low": 4.244892185999187e-05,
    "trailing": false,
-   "reached_10": false
+   "reached_10": true
   },
   {
    "row_id": "NM1795680451-HaHqFc-B",
@@ -224,10 +230,10 @@
    "realized": 0.0,
    "tp_done": [],
    "stop_px": 3.5117979336100316e-05,
-   "peak": 5.3236920727624564e-05,
+   "peak": 5.952e-05,
    "low": 5.0168541908714745e-05,
    "trailing": false,
-   "reached_10": false
+   "reached_10": true
   },
   {
    "row_id": "NM1795680451-Fo2HAw-R",
@@ -239,7 +245,7 @@
    "tp_done": [],
    "stop_px": 0.004637413472322548,
    "peak": 0.007729022453870914,
-   "low": 0.00768138748411893,
+   "low": 0.007072275950352739,
    "trailing": false,
    "reached_10": false
   },
@@ -253,7 +259,7 @@
    "tp_done": [],
    "stop_px": 0.005429344152560382,
    "peak": 0.00904890692093397,
-   "low": 0.009022811985094999,
+   "low": 0.008976760042978591,
    "trailing": false,
    "reached_10": false
   },
@@ -266,10 +272,10 @@
    "realized": 0.0,
    "tp_done": [],
    "stop_px": 2.764426456601005e-05,
-   "peak": 3.455533070751256e-05,
+   "peak": 3.83790695648883e-05,
    "low": 3.455533070751256e-05,
    "trailing": false,
-   "reached_10": false
+   "reached_10": true
   },
   {
    "row_id": "NM1795680635-4zaBGS-B",
@@ -280,10 +286,10 @@
    "realized": 0.0,
    "tp_done": [],
    "stop_px": 2.418873149525879e-05,
-   "peak": 3.455533070751256e-05,
+   "peak": 3.83790695648883e-05,
    "low": 3.455533070751256e-05,
    "trailing": false,
-   "reached_10": false
+   "reached_10": true
   },
   {
    "row_id": "NM1795680635-FL8wA5-B",
@@ -295,7 +301,7 @@
    "tp_done": [],
    "stop_px": 4.224030103402134e-05,
    "peak": 6.034328719145906e-05,
-   "low": 6.034328719145906e-05,
+   "low": 5.89080450314908e-05,
    "trailing": false,
    "reached_10": false
   },
@@ -308,8 +314,36 @@
    "realized": 0.0,
    "tp_done": [],
    "stop_px": 7.746148778065455e-05,
-   "peak": 0.00012910247963442427,
+   "peak": 0.00014166394376024556,
    "low": 0.00012910247963442427,
+   "trailing": false,
+   "reached_10": false
+  },
+  {
+   "row_id": "NM1795680935-SPCXxc-A",
+   "lane": "A",
+   "entry": 128.61955641928472,
+   "t0": 1795680935.068844,
+   "rem": 1.0,
+   "realized": 0.0,
+   "tp_done": [],
+   "stop_px": 102.89564513542778,
+   "peak": 128.61955641928472,
+   "low": 128.61955641928472,
+   "trailing": false,
+   "reached_10": false
+  },
+  {
+   "row_id": "NM1795680935-3gmFG4-A",
+   "lane": "A",
+   "entry": 0.0006388754580710867,
+   "t0": 1795680935.068844,
+   "rem": 1.0,
+   "realized": 0.0,
+   "tp_done": [],
+   "stop_px": 0.0005111003664568694,
+   "peak": 0.0006388754580710867,
+   "low": 0.0006388754580710867,
    "trailing": false,
    "reached_10": false
   }
