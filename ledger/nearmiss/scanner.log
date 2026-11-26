@@ -715,3 +715,8 @@
 2026-11-25T11:10:35-0500 RUN ok seen=111 new=0 closed=1 open=14 total=1255 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.8s
 2026-11-25T11:15:35-0500 RUN ok seen=109 new=0 closed=0 open=14 total=1255 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 15.0s
 2026-11-25T11:20:35-0500 RUN ok seen=108 new=0 closed=0 open=14 total=1255 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.8s
+2026-11-25T19:09:29-0500 SIGNAL R-band/R AMD 2ndz2hhsxDFgU1sQHi8Qjro7KRrTPgen1NJdUtNDpump mc=108267 liq=22790 m5=20627 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-25T19:09:29-0500 SIGNAL R-band/R Pompom 5EmvWDizkpjAXbcfCcVq69w1id8GaLzi4LLwtuSgpump mc=194874 liq=36309 m5=12438 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-25T19:09:29-0500 SIGNAL R-band/R UHI Bnw5JRPek5JvJhzUiB9yrs2cmzt4bLeFqSRzDzSppump mc=250376 liq=34795 m5=8908 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-25T19:09:29-0500 SIGNAL R-band/R VINE 6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump mc=9516791 liq=1476715 m5=0 mcap_outside_R_range_300k-5M(above);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-25T19:09:29-0500 RUN ok seen=127 new=4 closed=4 open=14 total=1259 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.5s

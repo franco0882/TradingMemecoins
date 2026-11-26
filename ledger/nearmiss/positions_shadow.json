@@ -1,5 +1,5 @@
 {
- "updated_et": "2026-11-25T11:20:35-0500",
+ "updated_et": "2026-11-25T19:09:29-0500",
  "positions": [
   {
    "row_id": "NM1795028435-ERiM8N-R",
@@ -72,41 +72,6 @@
    "reached_10": true
   },
   {
-   "row_id": "NM1795562893-GisWWj-B",
-   "lane": "B",
-   "entry": 0.0001403,
-   "t0": 1795562893.4139824,
-   "rem": 0.3,
-   "realized": 1.16,
-   "tp_done": [
-    0,
-    1
-   ],
-   "stop_px": 0.0001403,
-   "peak": 0.0011554421963652136,
-   "low": 0.0001403,
-   "trailing": true,
-   "reached_10": true
-  },
-  {
-   "row_id": "NM1795562893-GisWWj-R",
-   "lane": "R",
-   "entry": 0.0001403,
-   "t0": 1795562893.4139824,
-   "rem": 0.4000000000000001,
-   "realized": 1.3000000000000003,
-   "tp_done": [
-    0,
-    1,
-    2
-   ],
-   "stop_px": 8.418e-05,
-   "peak": 0.0011554421963652136,
-   "low": 0.0001403,
-   "trailing": true,
-   "reached_10": true
-  },
-  {
    "row_id": "NM1795584944-3Tg6Yn-R",
    "lane": "R",
    "entry": 0.00022440401919459208,
@@ -139,22 +104,6 @@
    "reached_10": false
   },
   {
-   "row_id": "NM1795584944-4Di56U-R",
-   "lane": "R",
-   "entry": 0.00015024676410314356,
-   "t0": 1795584944.0103588,
-   "rem": 0.8,
-   "realized": 0.30000000000000004,
-   "tp_done": [
-    0
-   ],
-   "stop_px": 9.014805846188613e-05,
-   "peak": 0.0002597897700201664,
-   "low": 0.00013759251912270974,
-   "trailing": false,
-   "reached_10": true
-  },
-  {
    "row_id": "NM1795585535-3Tg6Yn-A",
    "lane": "A",
    "entry": 0.0002971998510373883,
@@ -180,7 +129,7 @@
    "realized": 0.0,
    "tp_done": [],
    "stop_px": 54.059022810360965,
-   "peak": 90.09837135060161,
+   "peak": 91.31,
    "low": 86.57,
    "trailing": false,
    "reached_10": false
@@ -195,23 +144,65 @@
    "tp_done": [],
    "stop_px": 0.0001272,
    "peak": 0.000212,
-   "low": 0.0001751,
+   "low": 0.0001736,
    "trailing": false,
    "reached_10": false
   },
   {
-   "row_id": "NM1795622547-4Di56U-R",
+   "row_id": "NM1795651769-2ndz2h-R",
    "lane": "R",
-   "entry": 0.0002266,
-   "t0": 1795622547.221615,
+   "entry": 0.0001082,
+   "t0": 1795651769.9183998,
    "rem": 1.0,
    "realized": 0.0,
    "tp_done": [],
-   "stop_px": 0.00013596,
-   "peak": 0.0002597897700201664,
-   "low": 0.0002266,
+   "stop_px": 6.492e-05,
+   "peak": 0.0001082,
+   "low": 0.0001082,
    "trailing": false,
-   "reached_10": true
+   "reached_10": false
+  },
+  {
+   "row_id": "NM1795651769-5EmvWD-R",
+   "lane": "R",
+   "entry": 0.00019391728255317692,
+   "t0": 1795651769.9183998,
+   "rem": 1.0,
+   "realized": 0.0,
+   "tp_done": [],
+   "stop_px": 0.00011635036953190614,
+   "peak": 0.00019391728255317692,
+   "low": 0.00019391728255317692,
+   "trailing": false,
+   "reached_10": false
+  },
+  {
+   "row_id": "NM1795651769-Bnw5JR-R",
+   "lane": "R",
+   "entry": 0.0002504,
+   "t0": 1795651769.9183998,
+   "rem": 1.0,
+   "realized": 0.0,
+   "tp_done": [],
+   "stop_px": 0.00015024,
+   "peak": 0.0002504,
+   "low": 0.0002504,
+   "trailing": false,
+   "reached_10": false
+  },
+  {
+   "row_id": "NM1795651769-6AJcP7-R",
+   "lane": "R",
+   "entry": 0.00951722333623677,
+   "t0": 1795651769.9183998,
+   "rem": 1.0,
+   "realized": 0.0,
+   "tp_done": [],
+   "stop_px": 0.005710334001742061,
+   "peak": 0.00951722333623677,
+   "low": 0.00951722333623677,
+   "trailing": false,
+   "reached_10": false
   }
  ]
 }
