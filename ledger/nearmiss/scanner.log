@@ -806,3 +806,8 @@
 2026-11-26T21:00:35-0500 SIGNAL FULL-PASS/A Santaball 4obGGXRMVyqpWZr12UzyaBdNkgdYwz2GiY8enmd2pump mc=475405 liq=50384 m5=137514 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
 2026-11-26T21:00:35-0500 SIGNAL A-nearmiss/A fomoDay 6Zexdtc4e5bgwXMg21hFYfTcce77grdHdVUB5Wz2pump mc=64417 liq=16276 m5=82361 liq<30k;catalyst=unverified
 2026-11-26T21:00:35-0500 RUN ok seen=123 new=2 closed=3 open=18 total=1328 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.8s
+2026-11-26T21:05:35-0500 SIGNAL FULL-PASS/A KAI 45nXXxiytLcHXXPmCjv4eMNKn7XkjXKNrE4gWvZZTm4T mc=67382 liq=119820 m5=377654 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-26T21:05:35-0500 SIGNAL B-shadow/B KAI 45nXXxiytLcHXXPmCjv4eMNKn7XkjXKNrE4gWvZZTm4T mc=67382 liq=119820 m5=377654 regime:B_paused_in_COLD;age_basis=pool
+2026-11-26T21:05:35-0500 SIGNAL A-nearmiss/A DEXDATA 13JSa5nArb1WmSVJJ9ZhRjLMLEfTyKj8QCvnbaib1Hb9 mc=45254 liq=83338 m5=44297 vol5m<50k;catalyst=unverified
+2026-11-26T21:05:35-0500 SIGNAL B-shadow/B DEXDATA 13JSa5nArb1WmSVJJ9ZhRjLMLEfTyKj8QCvnbaib1Hb9 mc=45254 liq=83338 m5=44297 regime:B_paused_in_COLD;age_basis=pool
+2026-11-26T21:05:35-0500 RUN ok seen=124 new=4 closed=3 open=19 total=1332 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s

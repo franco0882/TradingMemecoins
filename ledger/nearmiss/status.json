@@ -1,23 +1,24 @@
 {
- "last_run_et": "2026-11-26T21:00:35-0500",
- "duration_s": 14.8,
+ "last_run_et": "2026-11-26T21:05:35-0500",
+ "duration_s": 14.6,
  "calls": {
   "gecko": 5,
   "dex": 5,
   "errors": 0,
   "429": 0
  },
- "tokens_seen": 123,
- "new_rows": 2,
+ "tokens_seen": 124,
+ "new_rows": 4,
  "new_by_class": {
   "FULL-PASS/A": 1,
+  "B-shadow/B": 2,
   "A-nearmiss/A": 1
  },
  "skipped_by_cap": 0,
  "closed_this_run": 3,
- "rows_total": 1328,
- "open_positions": 18,
- "closed_total": 1310,
+ "rows_total": 1332,
+ "open_positions": 19,
+ "closed_total": 1313,
  "errors_this_run": 0,
- "pid": 2439
+ "pid": 2506
 }
