@@ -20,7 +20,7 @@
    "low": 6.8525121379457075e-06,
    "trailing": false,
    "gap": 0,
-   "n": 2,
+   "n": 3,
    "trade_id": "L0145",
    "mint": "2QXbXCXinZtrsEYzG6fEmAPX4fpndiv82oJu59o8pEcu",
    "symbol": "ZOTH",
@@ -32,7 +32,7 @@
  ],
  "next_id": 146,
  "created_et": "2026-11-18T15:40:35-0500",
- "updated_et": "2026-11-27T05:20:35-0500",
+ "updated_et": "2026-11-27T05:25:35-0500",
  "open_count": 0,
  "open_ids": [],
  "bankroll_sol": 0.072679,
@@ -51,7 +51,7 @@
   "reentry_cooldown_h": 6
  },
  "watch_mode": "off",
- "last_run_t": 1795774835.2772787,
+ "last_run_t": 1795775135.4630227,
  "f_realized_pnl_sol": -0.229904,
  "f_bankroll_sol": 0.770096,
  "f_start_bankroll": 1.0,
@@ -69,7 +69,7 @@
   "clone_minlen": 4
  },
  "bandit": {
-  "updated_et": "2026-11-27T05:20:35-0500",
+  "updated_et": "2026-11-27T05:25:35-0500",
   "method": "thompson_gaussian_clean_net_pct",
   "min_share": 0.15,
   "min_cap": 3,
@@ -138,7 +138,7 @@
   "open_ids": [
    "L0145"
   ],
-  "unrealized_pnl_sol": -0.000496,
+  "unrealized_pnl_sol": -0.000499,
   "deployed_sol": 0.02397,
   "closed_total": 11,
   "trades_total": 12,
