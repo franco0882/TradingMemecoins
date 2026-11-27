@@ -851,3 +851,7 @@
 2026-11-27T14:40:35-0500 SIGNAL B-shadow/B DIHBALL 99CQuNiF6WN44xyKqPP9N41x5R9Uu8MkTM9CK3Rzpump mc=77568 liq=19051 m5=12159 regime:B_paused_in_COLD;age_basis=pool
 2026-11-27T14:40:35-0500 SIGNAL R-band/R DEXDATA 63jDWWFwp25ChLvsofbVRMprRbhiXuWoWVxrwFfypump mc=291769 liq=41580 m5=2714 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-27T14:40:35-0500 RUN ok seen=127 new=4 closed=3 open=19 total=1363 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
+2026-11-27T14:45:35-0500 SIGNAL FULL-PASS/A Split 13mgdzofLRRyw7ZcAQhLM5nLPzHqpLnXafDhMzKrS8Rt mc=52258 liq=93044 m5=278431 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-27T14:45:35-0500 SIGNAL B-shadow/B Split 13mgdzofLRRyw7ZcAQhLM5nLPzHqpLnXafDhMzKrS8Rt mc=52258 liq=93044 m5=278431 regime:B_paused_in_COLD;age_basis=pool
+2026-11-27T14:45:35-0500 SIGNAL R-band/R NVIDIA AuXPU9r3eweWLkfUteaBnFgqakQN6ozEie4byMg8pump mc=106445 liq=22219 m5=20659 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-27T14:45:35-0500 RUN ok seen=129 new=3 closed=1 open=21 total=1366 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
