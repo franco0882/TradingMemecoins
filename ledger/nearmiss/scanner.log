@@ -840,3 +840,6 @@
 2026-11-27T14:27:42-0500 SIGNAL R-band/R VINE 6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump mc=8958772 liq=1450168 m5=3757 mcap_outside_R_range_300k-5M(above);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-27T14:27:42-0500 SIGNAL R-band/R enu 9msLfYfXBrSbrApCZAPuPMCNmPqNtEL1VPKh1AEYpump mc=275993 liq=40535 m5=908 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-27T14:27:42-0500 RUN ok seen=128 new=8 closed=14 open=16 total=1355 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
+2026-11-27T14:30:35-0500 SIGNAL A-nearmiss/A HARRY AiGZ7hyL27wsqnYW5h9Q2jx9zDuHBS8o7Zuq85Rqpump mc=59246 liq=17274 m5=85693 liq<30k;catalyst=unverified
+2026-11-27T14:30:35-0500 SIGNAL B-shadow/B HARRY AiGZ7hyL27wsqnYW5h9Q2jx9zDuHBS8o7Zuq85Rqpump mc=59246 liq=17274 m5=85693 regime:B_paused_in_COLD;age_basis=pool
+2026-11-27T14:30:35-0500 RUN ok seen=127 new=2 closed=0 open=18 total=1357 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
