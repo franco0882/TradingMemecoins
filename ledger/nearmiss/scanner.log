@@ -803,3 +803,6 @@
 2026-11-26T20:55:35-0500 SIGNAL R-band/R TOGO 2QChKk7EvS3K9ezWu7Qs7981Qd2aJz4FEPce1HBZpump mc=197559 liq=31194 m5=25224 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-26T20:55:35-0500 SIGNAL B-shadow/B POPBALL CKiuTwHFMXKBaQ4V1WgsYctsdbLeit3wytXRkphzpump mc=118133 liq=24178 m5=10676 regime:B_paused_in_COLD;age_basis=pool
 2026-11-26T20:55:35-0500 RUN ok seen=122 new=7 closed=3 open=19 total=1326 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.7s
+2026-11-26T21:00:35-0500 SIGNAL FULL-PASS/A Santaball 4obGGXRMVyqpWZr12UzyaBdNkgdYwz2GiY8enmd2pump mc=475405 liq=50384 m5=137514 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-26T21:00:35-0500 SIGNAL A-nearmiss/A fomoDay 6Zexdtc4e5bgwXMg21hFYfTcce77grdHdVUB5Wz2pump mc=64417 liq=16276 m5=82361 liq<30k;catalyst=unverified
+2026-11-26T21:00:35-0500 RUN ok seen=123 new=2 closed=3 open=18 total=1328 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.8s
