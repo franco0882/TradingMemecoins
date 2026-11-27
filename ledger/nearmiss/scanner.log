@@ -831,3 +831,12 @@
 2026-11-27T05:25:35-0500 SIGNAL A-nearmiss/A BSC 8KrTQXPTz1jKy5eyPzdWNVGAeLzcuUrEZxFYKrHAtsb mc=63653 liq=100318 m5=49420 vol5m<50k;catalyst=unverified
 2026-11-27T05:25:35-0500 SIGNAL B-shadow/B BSC 8KrTQXPTz1jKy5eyPzdWNVGAeLzcuUrEZxFYKrHAtsb mc=63653 liq=100318 m5=49420 regime:B_paused_in_COLD;age_basis=pool
 2026-11-27T05:25:35-0500 RUN ok seen=120 new=4 closed=0 open=22 total=1347 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.5s
+2026-11-27T14:27:42-0500 SIGNAL R-band/R Grok Bot 47DtMgeHne66mFcop94F9fDSmMQo7RxXoDG8ytABE82V mc=133232 liq=196976 m5=268791 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-27T14:27:42-0500 SIGNAL R-band/R NIAN 7dmwLAntVq7YE1uAmgZQbTcvth1NkxTp5sbhixJwBvrE mc=141067 liq=182813 m5=152928 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-27T14:27:42-0500 SIGNAL R-band/R GAIB 2JjmRdQ71UzAUkTCGsFXNEBdqYBAbh9LMzSb8eHnzYJT mc=201917 liq=196853 m5=108696 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-27T14:27:42-0500 SIGNAL R-band/R Split HAP9FcXubD88SjRHMY1kr5iukpRZgeMAgCBam3Vtpump mc=298098 liq=44256 m5=39529 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-27T14:27:42-0500 SIGNAL R-band/R VICAT 4WZLGbAp6oEPxFbDcsfADCo1AgYZkfiteQhtM5iwpump mc=158561 liq=28251 m5=10212 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-27T14:27:42-0500 SIGNAL R-band/R MihaoCat YhrHvPNvdk6WTaJPVygnHv1bnErLZM4dY4dexavAfe3 mc=120623 liq=85305 m5=10025 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-27T14:27:42-0500 SIGNAL R-band/R VINE 6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump mc=8958772 liq=1450168 m5=3757 mcap_outside_R_range_300k-5M(above);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-27T14:27:42-0500 SIGNAL R-band/R enu 9msLfYfXBrSbrApCZAPuPMCNmPqNtEL1VPKh1AEYpump mc=275993 liq=40535 m5=908 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-27T14:27:42-0500 RUN ok seen=128 new=8 closed=14 open=16 total=1355 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
