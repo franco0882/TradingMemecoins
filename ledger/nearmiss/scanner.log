@@ -795,3 +795,11 @@
 2026-11-26T20:50:12-0500 SIGNAL R-band/R DEXDATA 63jDWWFwp25ChLvsofbVRMprRbhiXuWoWVxrwFfypump mc=254484 liq=36789 m5=4762 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-26T20:50:12-0500 SIGNAL R-band/R POPBALL CKiuTwHFMXKBaQ4V1WgsYctsdbLeit3wytXRkphzpump mc=103834 liq=21974 m5=4480 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-26T20:50:12-0500 RUN ok seen=135 new=6 closed=19 open=15 total=1319 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.7s
+2026-11-26T20:55:35-0500 SIGNAL FULL-PASS/A DEXDATA CnnrpEG34GoAzXC1KEDJTnsCuKXP4kevZtYU9sYzkLX mc=52687 liq=97007 m5=273182 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-26T20:55:35-0500 SIGNAL B-shadow/B DEXDATA CnnrpEG34GoAzXC1KEDJTnsCuKXP4kevZtYU9sYzkLX mc=52687 liq=97007 m5=273182 regime:B_paused_in_COLD;age_basis=pool
+2026-11-26T20:55:35-0500 SIGNAL B-shadow/B fomoDay 6Zexdtc4e5bgwXMg21hFYfTcce77grdHdVUB5Wz2pump mc=114104 liq=23368 m5=65026 regime:B_paused_in_COLD;age_basis=pool
+2026-11-26T20:55:35-0500 SIGNAL R-band/R fomoDay 6Zexdtc4e5bgwXMg21hFYfTcce77grdHdVUB5Wz2pump mc=114104 liq=23368 m5=65026 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-26T20:55:35-0500 SIGNAL B-shadow/B Greencat Hxn1ffZ2w9oXkVsCJe8RLKCtYR2J5VEm4843uEbPgrT5 mc=78578 liq=68087 m5=37903 regime:B_paused_in_COLD;age_basis=pool
+2026-11-26T20:55:35-0500 SIGNAL R-band/R TOGO 2QChKk7EvS3K9ezWu7Qs7981Qd2aJz4FEPce1HBZpump mc=197559 liq=31194 m5=25224 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-26T20:55:35-0500 SIGNAL B-shadow/B POPBALL CKiuTwHFMXKBaQ4V1WgsYctsdbLeit3wytXRkphzpump mc=118133 liq=24178 m5=10676 regime:B_paused_in_COLD;age_basis=pool
+2026-11-26T20:55:35-0500 RUN ok seen=122 new=7 closed=3 open=19 total=1326 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.7s
