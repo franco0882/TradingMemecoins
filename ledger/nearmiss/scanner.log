@@ -823,3 +823,5 @@
 2026-11-27T05:11:06-0500 SIGNAL R-band/R BSC FYGzmJ4PPVeeCE7AxQQGzRGQJwrwRon5q3yWqyahp4VR mc=186437 liq=25468 m5=46319 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-27T05:11:06-0500 SIGNAL R-band/R Kibo 7XSYaJygcuNe6Q3kPvwsJpg4ZrFL1AEUFb8kCuzppump mc=116953 liq=24838 m5=3801 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-27T05:11:06-0500 RUN ok seen=124 new=11 closed=11 open=19 total=1343 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.5s
+2026-11-27T05:15:42-0500 WARN http 429 https://api.geckoterminal.com/api/v2/networks/solana/pools?page=2&sort=h24_volume_usd_desc
+2026-11-27T05:15:47-0500 RUN ok seen=103 new=0 closed=1 open=18 total=1343 calls={'gecko': 6, 'dex': 5, 'errors': 1, '429': 2} 26.5s
