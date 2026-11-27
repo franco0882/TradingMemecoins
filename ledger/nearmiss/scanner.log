@@ -788,3 +788,10 @@
 2026-11-26T13:40:34-0500 SIGNAL A-nearmiss/A wXMR WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp mc=1071786 liq=241052 m5=31877 vol5m<50k;catalyst=unverified
 2026-11-26T13:40:34-0500 SIGNAL R-band/R Ansemmas HXxJdaQbrYRvwTAM8M8mUPyoRPvmyuUbPFBRkiAAMASS mc=288587 liq=52407 m5=8362 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-26T13:40:34-0500 RUN ok seen=120 new=2 closed=3 open=28 total=1313 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.5s
+2026-11-26T20:50:12-0500 SIGNAL FULL-PASS/A TOGO 2QChKk7EvS3K9ezWu7Qs7981Qd2aJz4FEPce1HBZpump mc=578401 liq=54831 m5=85178 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-26T20:50:12-0500 SIGNAL R-band/R Cybercab 8XNy42W7Y6bCczaC5b8k7rRRBw2tnTa9TN1ixthY4CWH mc=102343 liq=157685 m5=470756 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-26T20:50:12-0500 SIGNAL A-nearmiss/A 530A HVCM4t8mA1x7oxAuK7qxnrHtbTNooHPdPvjAqk9SKrGb mc=99050 liq=18738 m5=217256 liq<30k;catalyst=unverified
+2026-11-26T20:50:12-0500 SIGNAL B-shadow/B 530A HVCM4t8mA1x7oxAuK7qxnrHtbTNooHPdPvjAqk9SKrGb mc=99050 liq=18738 m5=217256 regime:B_paused_in_COLD;age_basis=pool
+2026-11-26T20:50:12-0500 SIGNAL R-band/R DEXDATA 63jDWWFwp25ChLvsofbVRMprRbhiXuWoWVxrwFfypump mc=254484 liq=36789 m5=4762 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-26T20:50:12-0500 SIGNAL R-band/R POPBALL CKiuTwHFMXKBaQ4V1WgsYctsdbLeit3wytXRkphzpump mc=103834 liq=21974 m5=4480 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-26T20:50:12-0500 RUN ok seen=135 new=6 closed=19 open=15 total=1319 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.7s
