@@ -3,10 +3,35 @@
  "reserve": 0.05,
  "size_sol": 0.025,
  "realized_pnl_sol": -0.927321,
- "positions": [],
- "next_id": 145,
+ "positions": [
+  {
+   "row_id": "L0145",
+   "lane": "A",
+   "entry": 6.854599335e-06,
+   "t0": 1795774266.2282937,
+   "exit": "TP30_S15_T30",
+   "size": 0.02397,
+   "explore": 0,
+   "rem": 1.0,
+   "realized": 0.0,
+   "done_tps": [],
+   "stop": 5.82640943475e-06,
+   "peak": 6.854599335e-06,
+   "low": 6.854599335e-06,
+   "trailing": false,
+   "gap": 0,
+   "n": 0,
+   "trade_id": "L0145",
+   "mint": "2QXbXCXinZtrsEYzG6fEmAPX4fpndiv82oJu59o8pEcu",
+   "symbol": "ZOTH",
+   "strategy": "A-FULLPASS-V4",
+   "entry_liq": 144485.0,
+   "pool": "DjkYZZ9WLjTnm4LJ2N37LtgnJXxJt4D4DNxJ7YcCgnkt"
+  }
+ ],
+ "next_id": 146,
  "created_et": "2026-11-18T15:40:35-0500",
- "updated_et": "2026-11-26T21:05:35-0500",
+ "updated_et": "2026-11-27T05:11:06-0500",
  "open_count": 0,
  "open_ids": [],
  "bankroll_sol": 0.072679,
@@ -25,7 +50,7 @@
   "reentry_cooldown_h": 6
  },
  "watch_mode": "off",
- "last_run_t": 1795745135.5024633,
+ "last_run_t": 1795774266.2282937,
  "f_realized_pnl_sol": -0.229904,
  "f_bankroll_sol": 0.770096,
  "f_start_bankroll": 1.0,
@@ -35,7 +60,7 @@
  "f_deployed_sol": 0.0,
  "f_closed_total": 39,
  "f_trades_total": 39,
- "open_count_total": 0,
+ "open_count_total": 1,
  "filter": {
   "liq_mcap_max": 0.5,
   "vol1h_liq_max": 20.0,
@@ -43,7 +68,7 @@
   "clone_minlen": 4
  },
  "bandit": {
-  "updated_et": "2026-11-26T21:05:35-0500",
+  "updated_et": "2026-11-27T05:11:06-0500",
   "method": "thompson_gaussian_clean_net_pct",
   "min_share": 0.15,
   "min_cap": 3,
@@ -68,32 +93,32 @@
     "n_clean": 5,
     "post_mean": -1.07,
     "post_sd": 9.45,
-    "p_best": 0.983,
-    "share": 0.838,
+    "p_best": 0.989,
+    "share": 0.842,
     "day_cap": 25
    },
    "A-NEARMISS-F": {
     "n_clean": 6,
     "post_mean": -35.09,
     "post_sd": 12.12,
-    "p_best": 0.018,
-    "share": 0.162,
+    "p_best": 0.011,
+    "share": 0.158,
     "day_cap": 5
    },
    "A-FULLPASS-V4": {
     "n_clean": 1,
     "post_mean": 9.0,
     "post_sd": 14.43,
-    "p_best": 0.505,
-    "share": 0.503,
+    "p_best": 0.508,
+    "share": 0.506,
     "day_cap": 15
    },
    "A-NEARMISS-V4": {
     "n_clean": 1,
     "post_mean": 9.0,
     "post_sd": 14.43,
-    "p_best": 0.495,
-    "share": 0.496,
+    "p_best": 0.492,
+    "share": 0.494,
     "day_cap": 15
    }
   }
@@ -109,11 +134,13 @@
   "start_bankroll": 1.0,
   "realized_pnl_sol": -0.041187,
   "bankroll_sol": 0.958813,
-  "open_ids": [],
-  "unrealized_pnl_sol": 0,
-  "deployed_sol": 0,
+  "open_ids": [
+   "L0145"
+  ],
+  "unrealized_pnl_sol": -0.000719,
+  "deployed_sol": 0.02397,
   "closed_total": 11,
-  "trades_total": 11,
+  "trades_total": 12,
   "exit": "TP30_S15_T30",
   "min_age_h": 6.0,
   "require_filter_pass": true,
