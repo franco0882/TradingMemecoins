@@ -871,3 +871,4 @@
 2026-11-27T21:06:13-0500 SIGNAL R-band/R VINE 6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump mc=9547500 liq=1502671 m5=330 mcap_outside_R_range_300k-5M(above);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-27T21:06:13-0500 RUN ok seen=127 new=14 closed=9 open=26 total=1380 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.7s
 2026-11-27T21:10:35-0500 RUN ok seen=121 new=0 closed=0 open=26 total=1380 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.8s
+2026-11-27T21:15:35-0500 RUN ok seen=122 new=0 closed=2 open=24 total=1380 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.7s
