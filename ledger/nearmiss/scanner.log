@@ -900,3 +900,6 @@
 2026-11-28T05:30:35-0500 SIGNAL A-nearmiss/A Mojave BKiJzAn4gbccSppbQGp8AQDgKyTRgyiZeTHc3sbRD9bK mc=90182 liq=17510 m5=210768 liq<30k;catalyst=unverified
 2026-11-28T05:30:35-0500 SIGNAL B-shadow/B Mojave BKiJzAn4gbccSppbQGp8AQDgKyTRgyiZeTHc3sbRD9bK mc=90182 liq=17510 m5=210768 regime:B_paused_in_COLD;age_basis=pool
 2026-11-28T05:30:35-0500 RUN ok seen=129 new=2 closed=2 open=27 total=1403 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.7s
+2026-11-28T05:35:35-0500 SIGNAL R-band/R Optimus 3b71UijUNK5iVRCAeBRorB4A8Y3qErdAhMcoTX28gXS6 mc=103178 liq=161201 m5=522412 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-28T05:35:35-0500 SIGNAL R-band/R Mojave C661Svac3Npn3C4Y2KrjiGB3PVTv7jPKH5B5FQ7S7Utw mc=102205 liq=150745 m5=337838 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-28T05:35:35-0500 RUN ok seen=128 new=2 closed=3 open=26 total=1405 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.5s
