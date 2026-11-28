@@ -894,3 +894,6 @@
 2026-11-28T05:20:35-0500 SIGNAL B-shadow/B MP4 Ct2bwNtaWDUcngtMTiMmzMs8pPbYtxzn8Gh2KNwRzskj mc=34177 liq=43805 m5=29848 regime:B_paused_in_COLD;age_basis=pool
 2026-11-28T05:20:35-0500 SIGNAL B-shadow/B Snowball 9npQAh7VJuMR3d15YjGBW94VfzbqaLyAhwV3adtBcm3b mc=23504 liq=36620 m5=19998 regime:B_paused_in_COLD;age_basis=pool
 2026-11-28T05:20:35-0500 RUN ok seen=131 new=9 closed=2 open=27 total=1399 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
+2026-11-28T05:25:35-0500 SIGNAL B-shadow/B MICROAI BL2tTdHpZAmHjVpbqVbJrVPSFpeJd8fS9ai8heTUyHWC mc=27456 liq=38965 m5=15520 regime:B_paused_in_COLD;age_basis=pool
+2026-11-28T05:25:35-0500 SIGNAL R-band/R WLFI HmGQsYJyeiWrV6jABUY2Cb3bEmVxwk6LzVxCchsCpump mc=274786 liq=40201 m5=6922 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-28T05:25:35-0500 RUN ok seen=129 new=2 closed=2 open=27 total=1401 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.7s
