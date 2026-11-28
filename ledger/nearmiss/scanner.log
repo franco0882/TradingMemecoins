@@ -874,3 +874,13 @@
 2026-11-27T21:15:35-0500 RUN ok seen=122 new=0 closed=2 open=24 total=1380 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.7s
 2026-11-27T21:20:35-0500 SIGNAL FULL-PASS/A ZOTH CbjsbDbNaT6RQ5Dfwdz74G7f6Q7KCq5sV7GHbkUZJ49o mc=491367 liq=124616 m5=247441 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
 2026-11-27T21:20:35-0500 RUN ok seen=123 new=1 closed=0 open=25 total=1381 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.7s
+2026-11-28T05:17:33-0500 SIGNAL FULL-PASS/A EDITOR 6nLRdMdN4XaqVcfgTzKFEdn9xDGZeJDuZqvUkUWPDivK mc=21563 liq=35186 m5=343576 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-28T05:17:33-0500 SIGNAL FULL-PASS/A NIAN 43B7Qd2Xy2Dw2bjEN4kB8APjMegz1yZNSW789YFeAsap mc=130005 liq=225939 m5=300569 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-28T05:17:33-0500 SIGNAL B-shadow/B EDITOR 6nLRdMdN4XaqVcfgTzKFEdn9xDGZeJDuZqvUkUWPDivK mc=21563 liq=35186 m5=343576 regime:B_paused_in_COLD;age_basis=pool
+2026-11-28T05:17:33-0500 SIGNAL B-shadow/B NIAN 43B7Qd2Xy2Dw2bjEN4kB8APjMegz1yZNSW789YFeAsap mc=130005 liq=225939 m5=300569 regime:B_paused_in_COLD;age_basis=pool
+2026-11-28T05:17:33-0500 SIGNAL R-band/R NIAN 43B7Qd2Xy2Dw2bjEN4kB8APjMegz1yZNSW789YFeAsap mc=130005 liq=225939 m5=300569 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-28T05:17:33-0500 SIGNAL R-band/R DOG 9ug1ZrRRA62yA24LbTLN1pSbwL1vvNK6mXc2gvgYmpBg mc=128236 liq=164810 m5=174009 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-28T05:17:33-0500 SIGNAL R-band/R HPD HsnC4xK8QjDwL6W8KS8R7b36PThuBb83oUJpBSqMNBdQ mc=276243 liq=31863 m5=38303 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-28T05:17:33-0500 SIGNAL R-band/R Robinhood 4nQLJ8aFXW3tTwnrstXrVqzbDH5u9eTaqc5F2Baypump mc=149633 liq=26384 m5=1197 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-28T05:17:33-0500 SIGNAL R-band/R GTAVI AbCdnrykKCfAFEDAbjj4zrJN1e9zhKWAXKYXy21cu85a mc=157116 liq=207027 m5=0 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
+2026-11-28T05:17:33-0500 RUN ok seen=135 new=9 closed=14 open=20 total=1390 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.8s
