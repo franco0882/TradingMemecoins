@@ -872,3 +872,5 @@
 2026-11-27T21:06:13-0500 RUN ok seen=127 new=14 closed=9 open=26 total=1380 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.7s
 2026-11-27T21:10:35-0500 RUN ok seen=121 new=0 closed=0 open=26 total=1380 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.8s
 2026-11-27T21:15:35-0500 RUN ok seen=122 new=0 closed=2 open=24 total=1380 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.7s
+2026-11-27T21:20:35-0500 SIGNAL FULL-PASS/A ZOTH CbjsbDbNaT6RQ5Dfwdz74G7f6Q7KCq5sV7GHbkUZJ49o mc=491367 liq=124616 m5=247441 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-27T21:20:35-0500 RUN ok seen=123 new=1 closed=0 open=25 total=1381 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.7s
