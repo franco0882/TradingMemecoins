@@ -884,3 +884,13 @@
 2026-11-28T05:17:33-0500 SIGNAL R-band/R Robinhood 4nQLJ8aFXW3tTwnrstXrVqzbDH5u9eTaqc5F2Baypump mc=149633 liq=26384 m5=1197 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-28T05:17:33-0500 SIGNAL R-band/R GTAVI AbCdnrykKCfAFEDAbjj4zrJN1e9zhKWAXKYXy21cu85a mc=157116 liq=207027 m5=0 mcap_outside_R_range_300k-5M(below);event_unconfirmed(research must verify novel event+catalyst tree)
 2026-11-28T05:17:33-0500 RUN ok seen=135 new=9 closed=14 open=20 total=1390 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.8s
+2026-11-28T05:20:35-0500 SIGNAL FULL-PASS/A USD2 7Hdb2CicU2eMs3Q4CRQUs8P6eesk81i1qeVrujJAZ3en mc=85212 liq=143034 m5=640765 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-28T05:20:35-0500 SIGNAL FULL-PASS/A DOG 9ug1ZrRRA62yA24LbTLN1pSbwL1vvNK6mXc2gvgYmpBg mc=128743 liq=166118 m5=432644 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-28T05:20:35-0500 SIGNAL FULL-PASS/A BASKET Gn9a2aeZaWU5NWRwwsem8G2HHnPkta6Mb1LgDFWNoMH mc=57194 liq=100000 m5=271632 none_quant(all A volume/liquidity/price gates pass); catalyst=unverified(<10min X event not checked)
+2026-11-28T05:20:35-0500 SIGNAL B-shadow/B USD2 7Hdb2CicU2eMs3Q4CRQUs8P6eesk81i1qeVrujJAZ3en mc=85212 liq=143034 m5=640765 regime:B_paused_in_COLD;age_basis=pool
+2026-11-28T05:20:35-0500 SIGNAL B-shadow/B DOG 9ug1ZrRRA62yA24LbTLN1pSbwL1vvNK6mXc2gvgYmpBg mc=128743 liq=166118 m5=432644 regime:B_paused_in_COLD;age_basis=pool
+2026-11-28T05:20:35-0500 SIGNAL B-shadow/B BASKET Gn9a2aeZaWU5NWRwwsem8G2HHnPkta6Mb1LgDFWNoMH mc=57194 liq=100000 m5=271632 regime:B_paused_in_COLD;age_basis=pool
+2026-11-28T05:20:35-0500 SIGNAL A-nearmiss/A MP4 Ct2bwNtaWDUcngtMTiMmzMs8pPbYtxzn8Gh2KNwRzskj mc=34177 liq=43805 m5=29848 vol5m<50k;catalyst=unverified
+2026-11-28T05:20:35-0500 SIGNAL B-shadow/B MP4 Ct2bwNtaWDUcngtMTiMmzMs8pPbYtxzn8Gh2KNwRzskj mc=34177 liq=43805 m5=29848 regime:B_paused_in_COLD;age_basis=pool
+2026-11-28T05:20:35-0500 SIGNAL B-shadow/B Snowball 9npQAh7VJuMR3d15YjGBW94VfzbqaLyAhwV3adtBcm3b mc=23504 liq=36620 m5=19998 regime:B_paused_in_COLD;age_basis=pool
+2026-11-28T05:20:35-0500 RUN ok seen=131 new=9 closed=2 open=27 total=1399 calls={'gecko': 5, 'dex': 5, 'errors': 0, '429': 0} 14.6s
